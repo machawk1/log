@@ -57,4 +57,4 @@ I am also grateful to contiunue to be involved as a Managing Editor for the [Int
 
 # Acknowledements
 
-The barriers in publishing a yearly review are rigid and tough to overcome given the many other obligations of academia. For finally getting this post out-the-door I want to thank the motivation of Dr. Jina Huh-Yoo, who has managed to publish her year-in-review while at Drexel and also the ODU WS-DL research group, who continually published such posts each January.
+The barriers in publishing a yearly review are rigid and tough to overcome given the many other obligations of academia. For finally getting this post out-the-door I want to thank the motivation of [Dr. Jina Huh-Yoo](https://jinahuhyoo.com/), who has managed to publish [her year-in-review while at Drexel](https://jinahuhyoophd.medium.com/2021-year-in-review-health-and-happiness-design-lab-at-drexel-university-33971bb5da14) and also the ODU WS-DL research group, who continually published such posts each January.
