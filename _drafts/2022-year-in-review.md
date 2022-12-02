@@ -14,13 +14,13 @@ In late July 2022, I was information that our grant proposal to the Institute of
 
 # Dissemination
 
-On the dissemination front, [Deanna Zarrillo](https://deannaswebsite.com) from CCI's [Scholarly Communication Lab](https://www.cs.drexel.edu/~ey86/lab.html) presented our work on an NSF Science of Science: Discovery, Communication, and Impact grant; lead by CCI's [Dr. Erjia Yan](https://www.cs.drexel.edu/~ey86/), at the Association for Information Science and Technology (ASIS&T) Annual Meeting in Pittsburgh, PA. The [paper](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/pra2.664), "Collecting Diachronic Affiliation Data for Faculty at HBCUs Using Memento", described some our efforts at exploring the phenomena of Brain Drain from Historically Black Colleges and Universities (HBCUs) by intiially leveraging web archives. 
+On the dissemination front, [Deanna Zarrillo](https://deannaswebsite.com) ([@zarrillogical](https://twitter.com/zarrillogical)) from CCI's [Scholarly Communication Lab](https://www.cs.drexel.edu/~ey86/lab.html) presented our work on an NSF Science of Science: Discovery, Communication, and Impact grant; lead by CCI's [Dr. Erjia Yan](https://www.cs.drexel.edu/~ey86/) ([@erjiayan](erjiayan)), at the Association for Information Science and Technology (ASIS&T) Annual Meeting in Pittsburgh, PA. The [paper](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/pra2.664), "Collecting Diachronic Affiliation Data for Faculty at HBCUs Using Memento", described some our efforts at exploring the phenomena of Brain Drain from Historically Black Colleges and Universities (HBCUs) by intiially leveraging web archives. 
 
 While still completing her MS prior to joining the PhD program, Hyung Wook Choi and I published a poster, "Examining Existing Approaches Toward Semantic Disambiguation" at the International Society for Knowledge Organization (ISKO) Conference 2022 in Allborg, Denmark in July.
 
 In June 2022 at the ACM/IEEE Joint Conference on Digital Libraries 2022, I helped organize the [Web Archiving and Digital Libraries (WADL) Workshop](https://fox.cs.vt.edu/wadl2022.html) [writeup](https://matkelly.com/papers/2022_wadl.pdf) along with Martin Klein ([@mart1nkle1n](https://twitter.com/mart1nkle1n)) from [Los Alamos National Laboratory](https://www.lanl.gov/) and both [Zhiwu Xie](https://www.zhiwuxie.com/) ([@zxie](https://twitter.com/zxie)) and Edward A. Fox from Virginia Tech. At this workshop, we also presented our progress on the above NSF grant with a presentation titled, "[First steps in Identifying Academic Migration using Memento and Quasi-Canonicalization](https://matkelly.com/papers/2022_wadl_hbcus.pdf)".
 
-Finally, less than a month ago, I remotely presented my full paper, "Aggregator Reuse and Extension for Richer Web Archive Interaction" at the International Conference on Asia-Pacific Digital Libraries (ICADL 2022), which was held in Hanoi, Vietnam. This is the first I have published after this conference, now having completed the DL conference trifecta of JCDL, TPDL, and ICADL.
+Finally, less than a month ago, I remotely presented my full paper, "Aggregator Reuse and Extension for Richer Web Archive Interaction" at the [International Conference on Asia-Pacific Digital Libraries (ICADL 2022)](https://icadl.net/icadl2022/), which was held in Hanoi, Vietnam. This is the first I have published after this conference, now having completed the DL conference trifecta of JCDL, TPDL, and ICADL. (TODO: add trifecta logo)
 
 # Teaching
 
@@ -32,17 +32,17 @@ Finally, in Fall 2022, I recently finished teaching INFO600 Web Systems & Archit
 
 # Upcoming
 
-In 2023, I will be involved as a Program Chair in helping to organize the ACM/IEEE Joint Conference on Digital Libraries 2023 in Sante Fe, New Mexico along with Dr. Martin Klein of LANL, Dr. Robert Jashke of Humboldt-Universität zu Berlin, and Dr. Anat Ben-David of Open University of Israel. It is sure to be an exciting time come next June and I am looking forward to continually being involved in this conference in a new role.
+In 2023, I will be involved as a Program Chair in helping to organize the [ACM/IEEE Joint Conference on Digital Libraries 2023](https://2023.jcdl.org/) in Sante Fe, New Mexico along with Dr. Martin Klein of LANL, [Dr. Robert J&auml;shke](https://www.ibi.hu-berlin.de/de/institut/personen/jaeschke) of Humboldt-Universität zu Berlin, and [Dr. Anat Ben-David](https://www.anatbendavid.info/) ([@anatbd](https://twitter.com/anatbd)) of Open University of Israel. It is sure to be an exciting time come next June and I am looking forward to continually being involved in this conference in a new role.
 
-Additionally, at the invite of Dr. Ingo Frommholz, I will be serving as the Publicity Chair on the Organizing Committee of the ACM International Conference on Information and Knowledge Management (CIKM) 2023. More info to come on that conference as we move into the new year.
+Additionally, at the invite of [Dr. Ingo Frommholz](http://www.frommholz.org/) [@iFromm](https://twitter.com/iFromm), I will be serving as the Publicity Chair on the Organizing Committee of the [ACM International Conference on Information and Knowledge Management (CIKM) 2023](https://cikm2023.github.io/). More info to come on that conference as we move into the new year.
 
 # Ongoing
 
 I am happy to continue my involvement with a few endeavors.
 
-For starters, I am still very much involved with Dr. Jane Greenberg's IMLS-funded LIS Education And Data Science Integrated Network Group (LEADING) project where, in 2022, we had our second cohort of students.
+For starters, I am still very much involved with Dr. Jane Greenberg's IMLS-funded [LIS Education And Data Science Integrated Network Group (LEADING)](https://mrc.cci.drexel.edu/leading/) project where, in 2022, we had our second cohort of students.
 
-I am also grateful to contiunue to be involved as a Managing Editor for the International Journal on Digital Libraries, where I am focusing on novel approaches toward publicity of the journal for soliciting new submissions. The Managing Editors, the Editorial Board, and a representative from Springer will meet on January 9, 2023 to discuss the state and future efforts for the journal.
+I am also grateful to contiunue to be involved as a Managing Editor for the [International Journal on Digital Libraries (IJDL)](https://www.springer.com/journal/799), where I am focusing on novel approaches toward publicity of the journal for soliciting new submissions. The Managing Editors, the Editorial Board, and a representative from Springer will meet on January 9, 2023 to discuss the state and future efforts for the journal.
 
 # In Summary
 
