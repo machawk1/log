@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "2022 Year-in-Review"
+published: false
 ---
 
 It has taken three years of my association with [Drexel](https://drexel.edu/) but in 2022 I am happy to finally provide a report of the status of our efforts over the last year.
@@ -62,4 +63,4 @@ I am also grateful to contiunue to be involved as a Managing Editor for the [Int
 
 # Acknowledements
 
-The barriers in publishing a yearly review are rigid and tough to overcome given the many other obligations of academia. For finally getting this post out-the-door I want to thank the motivation of [Dr. Jina Huh-Yoo](https://jinahuhyoo.com/), who has managed to publish [her year-in-review while at Drexel](https://jinahuhyoophd.medium.com/2021-year-in-review-health-and-happiness-design-lab-at-drexel-university-33971bb5da14) and also the ODU WS-DL research group, who continually published such posts each January.
+The barriers in publishing a yearly review are rigid and tough to overcome given the many other obligations of academia. For finally getting this post out-the-door I want to thank the motivation of [Dr. Jina Huh-Yoo](https://jinahuhyoo.com/), who has managed to publish [her year-in-review while at Drexel](https://jinahuhyoophd.medium.com/2021-year-in-review-health-and-happiness-design-lab-at-drexel-university-33971bb5da14) and also the [ODU WS-DL research group](https://ws-dl.cs.odu.edu), who continually publishes [such posts](https://ws-dl.blogspot.com/search/label/WS-DL%20Review) each January.
