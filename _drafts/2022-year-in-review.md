@@ -2,11 +2,11 @@
 layout: post
 title:  "2022 Year-in-Review"
 slug: 'year-in-review-2022'
-excerpt_separator: <!--endexcerpt-->
+excerpt_separator: <!-- endexcerpt -->
 ---
 
 It was eventful year! In this post we detail news relating to students, funding, dissemination, and courses that occurred in 2022.
-<!--endexcerpt-->
+<!-- endexcerpt -->
 It has taken three years of my association with [Drexel](https://drexel.edu/) but in 2022 I am happy to finally provide a report of the status of our efforts over the last year.
 
 # Students
