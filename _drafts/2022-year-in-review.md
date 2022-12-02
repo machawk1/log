@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "2022 Year-in-Review"
+slug: 'year-in-review-2022'
 excerpt_separator: <!--endexcerpt-->
 ---
 
