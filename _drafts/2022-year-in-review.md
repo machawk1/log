@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "2022 Year-in-Review"
-published: false
 ---
 
 It has taken three years of my association with [Drexel](https://drexel.edu/) but in 2022 I am happy to finally provide a report of the status of our efforts over the last year.
@@ -38,7 +37,7 @@ Finally, in Fall 2022, I recently finished teaching INFO600 Web Systems & Archit
 
 # Upcoming
 
-In 2023, I will be involved as a Program Chair in helping to organize the [ACM/IEEE Joint Conference on Digital Libraries 2023](https://2023.jcdl.org/) in Sante Fe, New Mexico along with Dr. Martin Klein of LANL, [Dr. Robert J&auml;shke](https://www.ibi.hu-berlin.de/de/institut/personen/jaeschke) of Humboldt-Universität zu Berlin, and [Dr. Anat Ben-David](https://www.anatbendavid.info/) ([@anatbd](https://twitter.com/anatbd)) of Open University of Israel. It is sure to be an exciting time come next June and I am looking forward to continually being involved in this conference in a new role.
+In 2023, I will be involved as a Program Chair in helping to organize the [ACM/IEEE Joint Conference on Digital Libraries 2023](https://2023.jcdl.org/) in Sante Fe, New Mexico along with Dr. Martin Klein of LANL, [Dr. Robert J&auml;shke](https://www.ibi.hu-berlin.de/de/institut/personen/jaeschke) of Humboldt-Universität zu Berlin, and [Dr. Anat Ben-David](https://www.anatbendavid.info/) ([@anatbd](https://twitter.com/anatbd)) of [Open University of Israel](https://www.openu.ac.il/en/pages/default.aspx). It is sure to be an exciting time come next June and I am looking forward to continually being involved in this conference in a new role.
 
 Additionally, at the invite of [Dr. Ingo Frommholz](http://www.frommholz.org/) [@iFromm](https://twitter.com/iFromm), I will be serving as the Publicity Chair on the Organizing Committee of the [ACM International Conference on Information and Knowledge Management (CIKM) 2023](https://cikm2023.github.io/). More info to come on that conference as we move into the new year.
 
