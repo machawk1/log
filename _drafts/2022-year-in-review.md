@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "2022 Year-in-Review"
+excerpt_separator: <!--endexcerpt-->
 ---
 
+This is a test excerpt
+<!--endexcerpt-->
 It has taken three years of my association with [Drexel](https://drexel.edu/) but in 2022 I am happy to finally provide a report of the status of our efforts over the last year.
 
 # Students
