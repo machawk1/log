@@ -2,6 +2,7 @@
 layout: post
 title:  "2022 Year-in-Review"
 slug: 'year-in-review-2022'
+tags: year-in-review hyung-wook-choi christopher-rauch erjia-yan deanna-zarrillo imls nsf
 excerpt_separator: <!-- endexcerpt -->
 ---
 
