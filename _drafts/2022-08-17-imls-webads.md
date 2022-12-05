@@ -6,6 +6,8 @@ img: 2022-08-17-ad.jpeg
 excerpt_separator: <!-- endexcerpt -->
 ---
 
+<p class="crosspost">This writeup was originally posted to the <a href="https://ws-dl.blogspot.com/2022/08/2022-08-17-collaborative-study.html">ODU WS-DL blog</a>.</p>
+
 Our IMLS NLG-L grant, "Saving Ads: Assessing and Improving Web Archives' Holdings of Online Advertisements" has been selected for funding!
 <!-- endexcerpt -->
 We are pleased to announce that a new collaboration between [Drexel University College of Computing & Informatics](https://drexel.edu/cci/) and the [ODU Web Science and Digital Libraries (WS-DL) Research Group](https://ws-dl.cs.odu.edu/) has been funded by the [Institute of Library and Museum and Library Services (IMLS)](https://www.imls.gov/) for the amount of $149,479. The two-year project, "Saving Ads: Assessing and Improving Web Archives' Holdings of Online Advertisements" is led by WS-DL alumnus [Mat Kelly](https://matkelly.com/) with WS-DL's [Michael L. Nelson](https://www.cs.odu.edu/~mln/) and [Michele C. Weigle](https://www.cs.odu.edu/~mweigle/) and Drexel CCI's [Alex Poole](https://drexel.edu/cci/about/directory/P/Poole-Alex/) as co-investigators.
