@@ -14,7 +14,7 @@ It has taken three years of my association with [Drexel](https://drexel.edu/) bu
 
 In 2022, PhD Student Christopher Rauch ([@chris_2187](https://twitter.com/chris_2187)) is continuing to explore his research topic and will be the primary Drexel student on our recently awarded IMLS grant. (TOADD: Chris image)
 
-A new PhD student, [Hyung Wook Choi](https://choihywook.github.io/), has joined Chris and I to pursue her PhD, initially exploring semantic disambiguation across domains. (TOADD: Wook image)
+A new PhD student, [Hyung Wook Choi](https://choihywook.github.io/), has joined Chris and I to pursue her PhD, initially exploring semantic disambiguation across domains. Upon starting her trek at Drexel, she was also awarded the [Graduate College Doctoral Gold Fellowship](https://drexel.edu/graduatecollege/research-funding/fellowships/graduatecollege-fellowships/2022-fellows/). (TOADD: Wook image)
 
 # Funding
 
