@@ -6,3 +6,19 @@
 
 figcaption {font-size: 0.75em; text-align: center;}
 .crosspost {border: 3px solid red; background-color: #ffcccc; padding: 5px; text-align: center; color: red; font-size: 0.8em; border-radius: 10px; margin: 0;} 
+
+img[alt$=">"] {
+    float: right;
+  }
+  
+  img[alt$="<"] {
+    float: left;
+  }
+  
+  img[alt$="><"] {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    float: none!important;
+  }
