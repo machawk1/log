@@ -42,7 +42,7 @@ On the dissemination front, Deanna Zarrillo ([@zarrillogical](https://twitter.co
 
 ![ISKO 2022 Logo >](/assets/2022-12-30/isko-2022.jpeg){: .logo}
 
-While still completing her MS prior to joining the PhD program, Hyung Wook Choi and I published a poster, "Examining Existing Approaches Toward Semantic Disambiguation" at the International Society for Knowledge Organization (ISKO) Conference 2022 in Allborg, Denmark in July. (TOADD: ISKO image)
+While still completing her MS prior to joining the PhD program, Hyung Wook Choi and I published a poster, "Examining Existing Approaches Toward Semantic Disambiguation" at the International Society for Knowledge Organization (ISKO) Conference 2022 in Allborg, Denmark in July.
 
 ![JCDL 2022 Logo >](/assets/2022-12-30/jcdl-2022.jpeg){: .logo}
 
@@ -64,17 +64,23 @@ Finally, in Fall 2022, I recently finished teaching INFO600 Web Systems & Archit
 
 In 2023, I will be involved as a Program Chair in helping to organize the [ACM/IEEE Joint Conference on Digital Libraries 2023](https://2023.jcdl.org/) in Sante Fe, New Mexico along with Dr. Martin Klein of LANL, [Dr. Robert J&auml;shke](https://www.ibi.hu-berlin.de/de/institut/personen/jaeschke) of Humboldt-Universität zu Berlin, and [Dr. Anat Ben-David](https://www.anatbendavid.info/) ([@anatbd](https://twitter.com/anatbd)) of [Open University of Israel](https://www.openu.ac.il/en/pages/default.aspx). It is sure to be an exciting time come next June and I am looking forward to continually being involved in this conference in a new role. (TOADD: JCDL 2023 logo)
 
-Additionally, at the invite of [Dr. Ingo Frommholz](http://www.frommholz.org/) [@iFromm](https://twitter.com/iFromm), I will be serving as the Publicity Chair on the Organizing Committee of the [ACM International Conference on Information and Knowledge Management (CIKM) 2023](https://cikm2023.github.io/). More info to come on that conference as we move into the new year. (TOADD: CIKM 2023 logo)
+Additionally, at the invite of [Dr. Ingo Frommholz](http://www.frommholz.org/) [@iFromm](https://twitter.com/iFromm), I will be serving as the Publicity Chair on the Organizing Committee of the [ACM International Conference on Information and Knowledge Management (CIKM) 2023](https://cikm2023.github.io/). More info to come on that conference as we move into the new year. <!--(TOADD: CIKM 2023 logo)-->
 
+
+![IJDL Logo >](/assets/2022-12-30/iipcwac-2023.png){: .logo}
 (TOADD: IIPC WAC acceptance)
 
 # Ongoing
 
 I am happy to continue my involvement with a few endeavors.
 
-For starters, I am still very much involved with Dr. Jane Greenberg's IMLS-funded [LIS Education And Data Science Integrated Network Group (LEADING)](https://mrc.cci.drexel.edu/leading/) project where, in 2022, we had our second cohort of students. (TOADD: LEADING logo)
+![LEADING Logo >](/assets/2022-12-30/leading.png){: .logo}
 
-I am also grateful to contiunue to be involved as a Managing Editor for the [International Journal on Digital Libraries (IJDL)](https://www.springer.com/journal/799), where I am focusing on novel approaches toward publicity of the journal for soliciting new submissions. The Managing Editors, the Editorial Board, and a representative from Springer will meet on January 9, 2023 to discuss the state and future efforts for the journal. (TOADD: IJDL logo)
+For starters, I am still very much involved with Dr. Jane Greenberg's IMLS-funded [LIS Education And Data Science Integrated Network Group (LEADING)](https://mrc.cci.drexel.edu/leading/) project where, in 2022, we had our second cohort of students.
+
+![IJDL Logo >](/assets/2022-12-30/ijdl.png){: .logo}
+
+I am also grateful to contiunue to be involved as a Managing Editor for the [International Journal on Digital Libraries (IJDL)](https://www.springer.com/journal/799), where I am focusing on novel approaches toward publicity of the journal for soliciting new submissions. The Managing Editors, the Editorial Board, and a representative from Springer will meet on January 9, 2023 to discuss the state and future efforts for the journal.
 
 # In Summary
 
