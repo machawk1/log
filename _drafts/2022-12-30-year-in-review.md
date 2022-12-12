@@ -2,7 +2,7 @@
 layout: post
 title:  "2022 Year-in-Review"
 slug: 'year-in-review-2022'
-background: assets/2022-12-30-yir.jpeg
+background: assets/2022-12-30/2022-12-30-yir.jpeg
 tags: year-in-review hyung-wook-choi christopher-rauch erjia-yan deanna-zarrillo imls nsf
 excerpt_separator: <!-- endexcerpt -->
 ---
@@ -13,25 +13,44 @@ It has taken three years of my association with [Drexel](https://drexel.edu/) bu
 
 # Students
 
-In 2022, PhD Student Christopher Rauch ([@chris_2187](https://twitter.com/chris_2187)) is continuing to explore his research topic and will be the primary Drexel student on our recently awarded IMLS grant. (TOADD: Chris image)
+![Christopher Rauch >](/assets/2022-12-30/christopher-rauch.jpeg){: .mug}
 
-A new PhD student, [Hyung Wook Choi](https://choihywook.github.io/), has joined Chris and I to pursue her PhD, initially exploring semantic disambiguation across domains. Upon starting her trek at Drexel, she was also awarded the [Graduate College Doctoral Gold Fellowship](https://drexel.edu/graduatecollege/research-funding/fellowships/graduatecollege-fellowships/2022-fellows/). (TOADD: Wook image)
+In 2022, PhD Student Christopher Rauch ([@chris_2187](https://twitter.com/chris_2187)) is continuing to explore his research topic and will be the primary Drexel student on our recently awarded IMLS grant.
+
+<br style="clear: both;">
+
+![Hyung Wook Choi >](/assets/2022-12-30/hyung-wook-choi.jpeg){: .mug}
+
+A new PhD student, [Hyung Wook Choi](https://choihywook.github.io/), has joined Chris and I to pursue her PhD, initially exploring semantic disambiguation across domains. Upon starting her trek at Drexel, she was also awarded the [Graduate College Doctoral Gold Fellowship](https://drexel.edu/graduatecollege/research-funding/fellowships/graduatecollege-fellowships/2022-fellows/).
 
 # Funding
 
-After a long period of negotiation, we were ability to solidify a collaboration between Drexel CCI and MITRE Corporation to build upon the "VENOM" project. Led by Dr. Justin F. Brunelle on the MITRE end and myself from Drexel, we sought to investigate methods for associating dark web URIs together and be able to provide a persistent identifier to solidify the association.  (TOADD: JFB image)
+![Justin F. Brunelle >](/assets/2022-12-30/justin-f-brunelle.jpeg){: .mug}
 
-In late July 2022, I was information that our grant proposal to the Institute of Museum and Library Services (IMLS) relating to investigating the past and contemporary usage of ads on the web was funded! This collabroation with my PhD advisors, Drs. [Michele C. Weigle](https://weiglemc.github.io/) and Dr. [Michael L. Nelson](https://www.cs.odu.edu/~mln/) from [ODU](https://www.odu.edu/), as well as my colleague, Dr. Alex H. Poole from Drexel CCI will support both Drexel and ODU students until 2024 to execute the grant tasks. More information about the grant can be had on the [grant summary page](https://www.imls.gov/grants/awarded/lg-252362-ols-22). (TOADD: IMLS image)
+After a long period of negotiation, we were ability to solidify a collaboration between Drexel CCI and MITRE Corporation to build upon the "VENOM" project. Led by Dr. Justin F. Brunelle on the MITRE end and myself from Drexel, we sought to investigate methods for associating dark web URIs together and be able to provide a persistent identifier to solidify the association. 
+
+![IMLS Logo >](/assets/2022-08-17-imls.jpeg){: .logo}
+
+In late July 2022, I was information that our grant proposal to the Institute of Museum and Library Services (IMLS) relating to investigating the past and contemporary usage of ads on the web was funded! This collabroation with my PhD advisors, Drs. [Michele C. Weigle](https://weiglemc.github.io/) and [Michael L. Nelson](https://www.cs.odu.edu/~mln/) from [ODU](https://www.odu.edu/), as well as my colleague, Dr. Alex H. Poole from Drexel CCI will support both Drexel and ODU students until 2024 to execute the grant tasks. More information about the grant can be had on the [grant summary page](https://www.imls.gov/grants/awarded/lg-252362-ols-22).
+
 
 # Dissemination
 
-On the dissemination front, Deanna Zarrillo ([@zarrillogical](https://twitter.com/zarrillogical)) from CCI's [Scholarly Communication Lab](https://www.cs.drexel.edu/~ey86/lab.html) presented our work on an NSF Science of Science: Discovery, Communication, and Impact grant; lead by CCI's [Dr. Erjia Yan](https://www.cs.drexel.edu/~ey86/) ([@erjiayan](erjiayan)), at the [Association for Information Science and Technology (ASIS&T) Annual Meeting 2022](https://www.asist.org/am22/) in Pittsburgh, PA. The [paper](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/pra2.664), "Collecting Diachronic Affiliation Data for Faculty at HBCUs Using Memento", described some our efforts at exploring the phenomena of Brain Drain from Historically Black Colleges and Universities (HBCUs) by intiially leveraging web archives. (TOADD: ASIST image)
+![ASIST Logo >](/assets/2022-12-30/asist.jpeg){: .logo}
+
+On the dissemination front, Deanna Zarrillo ([@zarrillogical](https://twitter.com/zarrillogical)) from CCI's [Scholarly Communication Lab](https://www.cs.drexel.edu/~ey86/lab.html) presented our work on an NSF Science of Science: Discovery, Communication, and Impact grant; lead by CCI's [Dr. Erjia Yan](https://www.cs.drexel.edu/~ey86/) ([@erjiayan](erjiayan)), at the [Association for Information Science and Technology (ASIS&T) Annual Meeting 2022](https://www.asist.org/am22/) in Pittsburgh, PA. The [paper](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/pra2.664), "Collecting Diachronic Affiliation Data for Faculty at HBCUs Using Memento", described some our efforts at exploring the phenomena of Brain Drain from Historically Black Colleges and Universities (HBCUs) by intiially leveraging web archives. 
+
+![ISKO 2022 Logo >](/assets/2022-12-30/isko-2022.jpeg){: .logo}
 
 While still completing her MS prior to joining the PhD program, Hyung Wook Choi and I published a poster, "Examining Existing Approaches Toward Semantic Disambiguation" at the International Society for Knowledge Organization (ISKO) Conference 2022 in Allborg, Denmark in July. (TOADD: ISKO image)
 
-In June 2022 at the ACM/IEEE Joint Conference on Digital Libraries 2022, I helped organize the [Web Archiving and Digital Libraries (WADL) Workshop](https://fox.cs.vt.edu/wadl2022.html) [writeup](https://matkelly.com/papers/2022_wadl.pdf) along with Martin Klein ([@mart1nkle1n](https://twitter.com/mart1nkle1n)) from [Los Alamos National Laboratory](https://www.lanl.gov/) and both [Zhiwu Xie](https://www.zhiwuxie.com/) ([@zxie](https://twitter.com/zxie)) and [Edward A. Fox](https://fox.cs.vt.edu/) from [Virginia Tech](https://www.vt.edu/). At this workshop, we also presented our progress on the above NSF grant with a presentation titled, "[First steps in Identifying Academic Migration using Memento and Quasi-Canonicalization](https://matkelly.com/papers/2022_wadl_hbcus.pdf)". (TOADD: JCDL 2022 logo)
+![JCDL 2022 Logo >](/assets/2022-12-30/jcdl-2022.jpeg){: .logo}
 
-Finally, less than a month ago, I remotely presented my full paper, "Aggregator Reuse and Extension for Richer Web Archive Interaction" at the [International Conference on Asia-Pacific Digital Libraries (ICADL 2022)](https://icadl.net/icadl2022/), which was held in Hanoi, Vietnam. This is the first I have published after this conference, now having completed the DL conference trifecta of JCDL, TPDL, and ICADL. (TOADD: ICADL logo) (TODO: add trifecta logo)
+In June 2022 at the ACM/IEEE Joint Conference on Digital Libraries 2022, I helped organize the [Web Archiving and Digital Libraries (WADL) Workshop](https://fox.cs.vt.edu/wadl2022.html) [writeup](https://matkelly.com/papers/2022_wadl.pdf) along with Martin Klein ([@mart1nkle1n](https://twitter.com/mart1nkle1n)) from [Los Alamos National Laboratory](https://www.lanl.gov/) and both [Zhiwu Xie](https://www.zhiwuxie.com/) ([@zxie](https://twitter.com/zxie)) and [Edward A. Fox](https://fox.cs.vt.edu/) from [Virginia Tech](https://www.vt.edu/). At this workshop, we also presented our progress on the above NSF grant with a presentation titled, "[First steps in Identifying Academic Migration using Memento and Quasi-Canonicalization](https://matkelly.com/papers/2022_wadl_hbcus.pdf)".
+
+![ICADL 2022 Logo >](/assets/2022-12-30/icadl-2022.png){: .logo}
+
+Finally, less than a month ago, I remotely presented my full paper, "Aggregator Reuse and Extension for Richer Web Archive Interaction" at the [International Conference on Asia-Pacific Digital Libraries (ICADL 2022)](https://icadl.net/icadl2022/), which was held in Hanoi, Vietnam. This is the first I have published after this conference, now having completed the DL conference trifecta of JCDL, TPDL, and ICADL. 
 
 # Teaching
 
