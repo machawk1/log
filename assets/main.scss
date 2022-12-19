@@ -66,3 +66,8 @@ img[alt$="<"] {
   float: left;
   margin: 0.25em 0.25em;
 }
+
+a[href^="https://twitter.com/"] {
+  white-space: nowrap;
+  color: #1da1f2;
+}

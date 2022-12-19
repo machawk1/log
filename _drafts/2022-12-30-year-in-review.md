@@ -4,6 +4,7 @@ title:  "2022 Year-in-Review"
 slug: 'year-in-review-2022'
 background: assets/2022-12-30/2022-12-30-yir.jpeg
 tags: year-in-review hyung-wook-choi christopher-rauch erjia-yan deanna-zarrillo imls nsf
+excerpt: It was eventful year! In this post we detail news relating to students, funding, dissemination, and courses that occurred in 2022.
 excerpt_separator: <!-- endexcerpt -->
 ---
 
@@ -62,7 +63,9 @@ Finally, in Fall 2022, I recently finished teaching INFO600 Web Systems & Archit
 
 # Upcoming
 
-In 2023, I will be involved as a Program Chair in helping to organize the [ACM/IEEE Joint Conference on Digital Libraries 2023](https://2023.jcdl.org/) in Sante Fe, New Mexico along with Dr. Martin Klein of LANL, [Dr. Robert J&auml;shke](https://www.ibi.hu-berlin.de/de/institut/personen/jaeschke) of Humboldt-Universität zu Berlin, and [Dr. Anat Ben-David](https://www.anatbendavid.info/) ([@anatbd](https://twitter.com/anatbd)) of [Open University of Israel](https://www.openu.ac.il/en/pages/default.aspx). It is sure to be an exciting time come next June and I am looking forward to continually being involved in this conference in a new role. (TOADD: JCDL 2023 logo)
+![JCDL 2023 Logo >](/assets/2022-12-30/jcdl-2023.png){: .logo}
+
+In 2023, I will be involved as a Program Chair in helping to organize the [ACM/IEEE Joint Conference on Digital Libraries 2023](https://2023.jcdl.org/) in Sante Fe, New Mexico along with Dr. Martin Klein of LANL, [Dr. Robert J&auml;shke](https://www.ibi.hu-berlin.de/de/institut/personen/jaeschke) of Humboldt-Universität zu Berlin, and [Dr. Anat Ben-David](https://www.anatbendavid.info/) ([@anatbd](https://twitter.com/anatbd)) of [Open University of Israel](https://www.openu.ac.il/en/pages/default.aspx). It is sure to be an exciting time come next June and I am looking forward to continually being involved in this conference in a new role.
 
 Additionally, at the invite of [Dr. Ingo Frommholz](http://www.frommholz.org/) ([@iFromm](https://twitter.com/iFromm)), I will be serving as the Publicity Chair on the Organizing Committee of the [ACM International Conference on Information and Knowledge Management (CIKM) 2023](https://cikm2023.github.io/). More info to come on that conference as we move into the new year. <!--(TOADD: CIKM 2023 logo)-->
 
