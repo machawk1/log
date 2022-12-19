@@ -49,6 +49,40 @@ layout: default
 
         </div>
 
+        <div class="related">
+          {% if page.tags != null %}
+          <div class="tags">
+            <ul>
+              {% for tag in page.tags %}
+              <li><a href="/tags#{{ tag | slugify }}-ref">
+                    {{ tag | replace: '-', ' ' }}
+                </a> </li>
+              {% endfor %}
+            
+            </ul
+          </div>
+        </div>
+          {% endif %}
+
+
       </div>
+      
     </div>
+
+
+    <!--
+              <div>
+          <ul id="tags">
+          {% for tag in page.tags %}
+          {% assign tag_slug = tag | slugify: "raw" %}
+            <li><a href={{ prepend: site.baseurl | append: "/tags/" | append: tag_slug | append: "/" }}
+              rel="category tag">
+              #{{ tag }}</a></li>
+          {% endfor %}
+          </ul>
+        </div>
+    -->
+    
   </div>
+
+  

@@ -13,14 +13,56 @@ img[alt$=">"] {
     float: right;
   }
   
-  img[alt$="<"] {
+img[alt$="<"] {
     float: left;
-  }
+ }
   
-  img[alt$="><"] {
+ img[alt$="><"] {
     display: block;
     max-width: 100%;
     height: auto;
     margin: auto;
     float: none!important;
-  }
+ }
+
+
+
+.tag-box a {
+  padding: 4px 6px;
+  margin: 2px;
+  background-color: #e6e6e6;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.tag-box a span {
+  vertical-align: super;
+  font-size: 10px;
+  font-size: 0.625rem;
+}
+
+.tags a {
+  background-color: black;
+  color: white;
+  font-size: 0.8em;
+  padding: 0.5em;
+  border-radius: 1.0em;
+  border: 1px solid black;
+}
+
+.tags a:hover {
+  background-color: white;
+  border: 1px solid black;
+  color: black;
+}
+
+.tags ul {
+ list-style-type: none;
+}
+
+.tags ul li {
+  float: left;
+  margin: 0.25em 0.25em;
+}
