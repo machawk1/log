@@ -55,7 +55,7 @@ Finally, less than a month ago, I remotely presented my full paper, "Aggregator 
 
 # Teaching
 
-In Winter 2022, I was grateful to be able to teach INFO624 Information Retrieval System for the third time at Drexel. I very much enjoy the course and hope to further incorporate interaction with ElasticSearch in future iterations.
+In Winter 2022, I was grateful to be able to teach INFO624 Information Retrieval System for the third time at Drexel. I very much enjoy the course and hope to further incorporate interaction with Elasticsearch in future iterations.
 
 In Spring 2022, I was on research leave after having welcomed my son to the world on March 14, 2022.
 
