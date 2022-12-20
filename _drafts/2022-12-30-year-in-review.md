@@ -39,11 +39,11 @@ In late July 2022, I was information that our grant proposal to the Institute of
 
 ![ASIST Logo >](/assets/2022-12-30/asist.jpeg){: .logo}
 
-On the dissemination front, Deanna Zarrillo ([@zarrillogical](https://twitter.com/zarrillogical)) from CCI's [Scholarly Communication Lab](https://www.cs.drexel.edu/~ey86/lab.html) presented our work on an NSF Science of Science: Discovery, Communication, and Impact grant; lead by CCI's [Dr. Erjia Yan](https://www.cs.drexel.edu/~ey86/) ([@erjiayan](erjiayan)), at the [Association for Information Science and Technology (ASIS&T) Annual Meeting 2022](https://www.asist.org/am22/) in Pittsburgh, PA. The [paper](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/pra2.664), "Collecting Diachronic Affiliation Data for Faculty at HBCUs Using Memento", described some our efforts at exploring the phenomena of Brain Drain from Historically Black Colleges and Universities (HBCUs) by intially leveraging web archives. 
+On the dissemination front, Deanna Zarrillo ([@zarrillogical](https://twitter.com/zarrillogical)) from CCI's [Scholarly Communication Lab](https://www.cs.drexel.edu/~ey86/lab.html) presented our work on an NSF Science of Science: Discovery, Communication, and Impact grant; lead by CCI's [Dr. Erjia Yan](https://www.cs.drexel.edu/~ey86/) ([@erjiayan](erjiayan)), at the [Association for Information Science and Technology (ASIS&T) Annual Meeting 2022](https://www.asist.org/am22/) in Pittsburgh, PA. The [paper](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/pra2.664), "Collecting Diachronic Affiliation Data for Faculty at HBCUs Using Memento", described some our efforts at exploring the phenomena of Brain Drain from Historically Black Colleges and Universities (HBCUs) by initially leveraging web archives. 
 
 ![ISKO 2022 Logo >](/assets/2022-12-30/isko-2022.jpeg){: .logo}
 
-While still completing her MS prior to joining the PhD program, Hyung Wook Choi and I published a poster, "Examining Existing Approaches Toward Semantic Disambiguation" at the International Society for Knowledge Organization (ISKO) Conference 2022 in Allborg, Denmark in July.
+While still completing her MS prior to joining the PhD program, Hyung Wook Choi and I published a poster, "Examining Existing Approaches Toward Semantic Disambiguation" at the International Society for Knowledge Organization (ISKO) Conference 2022 in Aalborg, Denmark in July.
 
 ![JCDL 2022 Logo >](/assets/2022-12-30/jcdl-2022.jpeg){: .logo}
 
@@ -83,7 +83,7 @@ For starters, I am still very much involved with Dr. Jane Greenberg's IMLS-funde
 
 ![IJDL Logo >](/assets/2022-12-30/ijdl.png){: .logo}
 
-I am also grateful to contiunue to be involved as a Managing Editor for the [International Journal on Digital Libraries (IJDL)](https://www.springer.com/journal/799), where I am focusing on novel approaches toward publicity of the journal for soliciting new submissions. The Managing Editors, the Editorial Board, and a representative from Springer will meet on January 9, 2023 to discuss the state and future efforts for the journal.
+I am also grateful to continue to be involved as a Managing Editor for the [International Journal on Digital Libraries (IJDL)](https://www.springer.com/journal/799), where I am focusing on novel approaches toward publicity of the journal for soliciting new submissions. The Managing Editors, the Editorial Board, and a representative from Springer will meet on January 9, 2023 to discuss the state and future efforts for the journal.
 
 # In Summary
 
@@ -96,6 +96,6 @@ I am also grateful to contiunue to be involved as a Managing Editor for the [Int
 * Two new grant awarded (IMLS NLG-L, MITRE-Venom) with the latter fully executed
 * Two courses taught (INFO624, INFO600)
 
-# Acknowledements
+# Acknowledgments
 
 The barriers in publishing a yearly review are rigid and tough to overcome given the many other obligations of academia. For finally getting this post out-the-door I want to thank the motivation of [Dr. Jina Huh-Yoo](https://jinahuhyoo.com/), who has managed to publish [her year-in-review while at Drexel](https://jinahuhyoophd.medium.com/2021-year-in-review-health-and-happiness-design-lab-at-drexel-university-33971bb5da14) and also the [ODU WS-DL research group](https://ws-dl.cs.odu.edu), who continually publishes [such posts](https://ws-dl.blogspot.com/search/label/WS-DL%20Review) each January.

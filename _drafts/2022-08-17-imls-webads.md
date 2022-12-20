@@ -7,7 +7,7 @@ tags: funding imls webads wsdl michael-nelson michele-weigle alex-poole
 excerpt: Our IMLS NLG-L grant on assessing and improving web archives' holdings of online advertisements has been selected for funding!
 ---
 
-<p class="crosspost">This writeup was originally posted to the <a href="https://ws-dl.blogspot.com/2022/08/2022-08-17-collaborative-study.html">ODU WS-DL blog</a>.</p>
+<p class="crosspost">This write-up was originally posted to the <a href="https://ws-dl.blogspot.com/2022/08/2022-08-17-collaborative-study.html">ODU WS-DL blog</a>.</p>
 
 ![IMLS Logo >](/assets/2022-08-17-imls.jpeg){: width="350" }
 
