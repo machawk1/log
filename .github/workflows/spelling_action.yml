@@ -1,4 +1,0 @@
-uses: reitermarkus/aspell@main
-with:
-  files: "**/**.md"
-  args: --lang=en_us --mode=markdown
