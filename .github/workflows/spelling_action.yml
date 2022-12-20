@@ -5,7 +5,6 @@ jobs:
   build:
     name: Spellcheck
     runs-on: ubuntu-latest
-    task_name: Spellgood
     steps:
     # The checkout step
     - uses: actions/checkout@master
