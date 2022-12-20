@@ -2,7 +2,7 @@
 layout: post
 title:  "Collaborative Study Highlighting the Importance of Web Ads Funded by IMLS"
 slug: 'imls-webads'
-background: assets/2022-08-17-ad.jpeg
+background: assets/2022-08-17-ad-header.jpeg
 tags: funding imls webads wsdl michael-nelson michele-weigle alex-poole
 excerpt: Our IMLS NLG-L grant on assessing and improving web archives' holdings of online advertisements has been selected for funding!
 ---
