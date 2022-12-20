@@ -32,14 +32,14 @@ After a long period of negotiation, we were ability to solidify a collaboration 
 
 ![IMLS Logo >](/assets/2022-08-17-imls.jpeg){: .logo}
 
-In late July 2022, I was information that our grant proposal to the Institute of Museum and Library Services (IMLS) relating to investigating the past and contemporary usage of ads on the web was funded! This collabroation with my PhD advisors, Drs. [Michele C. Weigle](https://weiglemc.github.io/) and [Michael L. Nelson](https://www.cs.odu.edu/~mln/) from [ODU](https://www.odu.edu/), as well as my colleague, Dr. Alex H. Poole from Drexel CCI will support both Drexel and ODU students until 2024 to execute the grant tasks. More information about the grant can be had on the [grant summary page](https://www.imls.gov/grants/awarded/lg-252362-ols-22).
+In late July 2022, I was information that our grant proposal to the Institute of Museum and Library Services (IMLS) relating to investigating the past and contemporary usage of ads on the web was funded! This collaboration with my PhD advisors, Drs. [Michele C. Weigle](https://weiglemc.github.io/) and [Michael L. Nelson](https://www.cs.odu.edu/~mln/) from [ODU](https://www.odu.edu/), as well as my colleague, Dr. Alex H. Poole from Drexel CCI will support both Drexel and ODU students until 2024 to execute the grant tasks. More information about the grant can be had on the [grant summary page](https://www.imls.gov/grants/awarded/lg-252362-ols-22).
 
 
 # Dissemination
 
 ![ASIST Logo >](/assets/2022-12-30/asist.jpeg){: .logo}
 
-On the dissemination front, Deanna Zarrillo ([@zarrillogical](https://twitter.com/zarrillogical)) from CCI's [Scholarly Communication Lab](https://www.cs.drexel.edu/~ey86/lab.html) presented our work on an NSF Science of Science: Discovery, Communication, and Impact grant; lead by CCI's [Dr. Erjia Yan](https://www.cs.drexel.edu/~ey86/) ([@erjiayan](erjiayan)), at the [Association for Information Science and Technology (ASIS&T) Annual Meeting 2022](https://www.asist.org/am22/) in Pittsburgh, PA. The [paper](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/pra2.664), "Collecting Diachronic Affiliation Data for Faculty at HBCUs Using Memento", described some our efforts at exploring the phenomena of Brain Drain from Historically Black Colleges and Universities (HBCUs) by intiially leveraging web archives. 
+On the dissemination front, Deanna Zarrillo ([@zarrillogical](https://twitter.com/zarrillogical)) from CCI's [Scholarly Communication Lab](https://www.cs.drexel.edu/~ey86/lab.html) presented our work on an NSF Science of Science: Discovery, Communication, and Impact grant; lead by CCI's [Dr. Erjia Yan](https://www.cs.drexel.edu/~ey86/) ([@erjiayan](erjiayan)), at the [Association for Information Science and Technology (ASIS&T) Annual Meeting 2022](https://www.asist.org/am22/) in Pittsburgh, PA. The [paper](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/pra2.664), "Collecting Diachronic Affiliation Data for Faculty at HBCUs Using Memento", described some our efforts at exploring the phenomena of Brain Drain from Historically Black Colleges and Universities (HBCUs) by intially leveraging web archives. 
 
 ![ISKO 2022 Logo >](/assets/2022-12-30/isko-2022.jpeg){: .logo}
 
@@ -55,7 +55,7 @@ Finally, less than a month ago, I remotely presented my full paper, "Aggregator 
 
 # Teaching
 
-In Winter 2022, I was grateful to be able to teach INFO624 Information Retrieval System for the third time at Drexel. I very much enjoy the course and hope to further incorpate interaction with ElasticSearch in future interations.
+In Winter 2022, I was grateful to be able to teach INFO624 Information Retrieval System for the third time at Drexel. I very much enjoy the course and hope to further incorporate interaction with ElasticSearch in future iterations.
 
 In Spring 2022, I was on research leave after having welcomed my son to the world on March 14, 2022.
 
