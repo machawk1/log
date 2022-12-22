@@ -16,7 +16,7 @@ It has taken three years of my association with [Drexel](https://drexel.edu/) bu
 
 ![Christopher Rauch >](/assets/2022-12-30/christopher-rauch.jpeg){: .mug}
 
-In 2022, PhD Student Christopher Rauch ([@chris_2187](https://twitter.com/chris_2187)) is continuing to explore his research topic and will be the primary Drexel student on our recently awarded IMLS grant.
+In 2022, PhD Student Christopher Rauch ([@chris_2187](https://twitter.com/chris_2187)) is continuing to explore his research topic and will be the primary Drexel student on our [recently awarded IMLS grant](#funding).
 
 <br style="clear: both;">
 
@@ -28,18 +28,18 @@ A new PhD student, [Hyung Wook Choi](https://choihywook.github.io/), has joined 
 
 ![Justin F. Brunelle >](/assets/2022-12-30/justin-f-brunelle.jpeg){: .mug}
 
-After a long period of negotiation, we were ability to solidify a collaboration between Drexel CCI and MITRE Corporation to build upon the "VENOM" project. Led by Dr. Justin F. Brunelle on the MITRE end and myself from Drexel, we sought to investigate methods for associating dark web URIs together and be able to provide a persistent identifier to solidify the association. 
+After a long period of negotiation, we were ability to solidify a collaboration between Drexel CCI and MITRE Corporation to build upon the "VENOM: Archiving the Dark Web" project. Led by <a href="http://justinfbrunelle.com/">Dr. Justin F. Brunelle</a> on the MITRE end and myself from Drexel, we sought to investigate methods for associating dark web URIs together and be able to provide a persistent identifier to solidify the association. 
 
 ![IMLS Logo >](/assets/2022-08-17-imls.jpeg){: .logo}
 
-In late July 2022, I was information that our grant proposal to the Institute of Museum and Library Services (IMLS) relating to investigating the past and contemporary usage of ads on the web was funded! This collaboration with my PhD advisors, Drs. [Michele C. Weigle](https://weiglemc.github.io/) and [Michael L. Nelson](https://www.cs.odu.edu/~mln/) from [ODU](https://www.odu.edu/), as well as my colleague, Dr. Alex H. Poole from Drexel CCI will support both Drexel and ODU students until 2024 to execute the grant tasks. More information about the grant can be had on the [grant summary page](https://www.imls.gov/grants/awarded/lg-252362-ols-22).
+In late July 2022, I was information that our grant proposal to the <a href="https://www.imls.gov/">Institute of Museum and Library Services (IMLS)</a> relating to investigating the past and contemporary usage of ads on the web was funded! This collaboration with my PhD advisors, Drs. [Michele C. Weigle](https://weiglemc.github.io/) and [Michael L. Nelson](https://www.cs.odu.edu/~mln/) from [ODU](https://www.odu.edu/), as well as my colleague, <a href="https://drexel.edu/cci/about/directory/P/Poole-Alex/">Dr. Alex H. Poole</a> from Drexel CCI will support both Drexel and ODU students until 2024 to execute the grant tasks. More information about the grant can be had on the [grant summary page](https://www.imls.gov/grants/awarded/lg-252362-ols-22).
 
 
 # Dissemination
 
 ![ASIST Logo >](/assets/2022-12-30/asist.jpeg){: .logo}
 
-On the dissemination front, Deanna Zarrillo ([@zarrillogical](https://twitter.com/zarrillogical)) from CCI's [Scholarly Communication Lab](https://www.cs.drexel.edu/~ey86/lab.html) presented our work on an NSF Science of Science: Discovery, Communication, and Impact grant; lead by CCI's [Dr. Erjia Yan](https://www.cs.drexel.edu/~ey86/) ([@erjiayan](erjiayan)), at the [Association for Information Science and Technology (ASIS&T) Annual Meeting 2022](https://www.asist.org/am22/) in Pittsburgh, PA. The [paper](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/pra2.664), "Collecting Diachronic Affiliation Data for Faculty at HBCUs Using Memento", described some our efforts at exploring the phenomena of Brain Drain from Historically Black Colleges and Universities (HBCUs) by initially leveraging web archives. 
+On the dissemination front, Deanna Zarrillo ([@zarrillogical](https://twitter.com/zarrillogical)) from CCI's [Scholarly Communication Lab](https://www.cs.drexel.edu/~ey86/lab.html) presented our work on an NSF Science of Science: Discovery, Communication, and Impact grant; lead by CCI's [Dr. Erjia Yan](https://www.cs.drexel.edu/~ey86/) ([@erjiayan](https://twitter.com/erjiayan)), at the [Association for Information Science and Technology (ASIS&T) Annual Meeting 2022](https://www.asist.org/am22/) in Pittsburgh, PA. The [paper](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/pra2.664), "Collecting Diachronic Affiliation Data for Faculty at HBCUs Using Memento", described some our efforts at exploring the phenomena of Brain Drain from Historically Black Colleges and Universities (HBCUs) by initially leveraging web archives. 
 
 ![ISKO 2022 Logo >](/assets/2022-12-30/isko-2022.jpeg){: .logo}
 
@@ -57,6 +57,8 @@ Finally, less than a month ago, I remotely presented my full paper, "Aggregator 
 
 In Winter 2022, I was grateful to be able to teach INFO624 Information Retrieval System for the third time at Drexel. I very much enjoy the course and hope to further incorporate interaction with Elasticsearch in future iterations.
 
+![Benjamin Patrick >](/assets/2022-12-30/benjamin.jpeg){: .mug}
+
 In Spring 2022, I was on research leave after having welcomed my son to the world on March 14, 2022.
 
 Finally, in Fall 2022, I recently finished teaching INFO600 Web Systems & Architecture. This is also my third time teaching this class with each iteration being a different modality permutation: first as face-to-face, second as online due to the pandemic, and thirdly as a cross-listed online/face-to-face course.
@@ -67,11 +69,15 @@ Finally, in Fall 2022, I recently finished teaching INFO600 Web Systems & Archit
 
 In 2023, I will be involved as a Program Chair in helping to organize the [ACM/IEEE Joint Conference on Digital Libraries 2023](https://2023.jcdl.org/) in Sante Fe, New Mexico along with Dr. Martin Klein of LANL, [Dr. Robert J&auml;schke](https://www.ibi.hu-berlin.de/de/institut/personen/jaeschke) of Humboldt-Universität zu Berlin, and [Dr. Anat Ben-David](https://www.anatbendavid.info/) ([@anatbd](https://twitter.com/anatbd)) of [Open University of Israel](https://www.openu.ac.il/en/pages/default.aspx). It is sure to be an exciting time come next June and I am looking forward to continually being involved in this conference in a new role.
 
+![CIKM 2023 Logo >](/assets/2022-12-30/cikm-2023.png){: .logo}
+
 Additionally, at the invite of [Dr. Ingo Frommholz](http://www.frommholz.org/) ([@iFromm](https://twitter.com/iFromm)), I will be serving as the Publicity Chair on the Organizing Committee of the [ACM International Conference on Information and Knowledge Management (CIKM) 2023](https://cikm2023.github.io/). More info to come on that conference as we move into the new year. <!--(TOADD: CIKM 2023 logo)-->
 
 
 ![IJDL Logo >](/assets/2022-12-30/iipcwac-2023.png){: .logo}
-(TOADD: IIPC WAC acceptance)
+
+Lastly, just prior to posting this review in early December I was notified of the acceptance of our proposal, "Using Web Archives to Model Academic Migration and Identify Brain Drain" at the [International Internet Preservation Consortium (IIPC) Web Archiving Conference (WAC) 2023](https://netpreserve.org/ga2022/), to occur in May 2023. More information on this presentation disseminating progress on our [NSF-funded](#funding) grant will be available in the future.
+
 
 # Ongoing
 
@@ -98,4 +104,4 @@ I am also grateful to continue to be involved as a Managing Editor for the [Inte
 
 # Acknowledgments
 
-The barriers in publishing a yearly review are rigid and tough to overcome given the many other obligations of academia. For finally getting this post out-the-door I want to thank the motivation of [Dr. Jina Huh-Yoo](https://jinahuhyoo.com/), who has managed to publish [her year-in-review while at Drexel](https://jinahuhyoophd.medium.com/2021-year-in-review-health-and-happiness-design-lab-at-drexel-university-33971bb5da14) and also the [ODU WS-DL research group](https://ws-dl.cs.odu.edu), who continually publishes [such posts](https://ws-dl.blogspot.com/search/label/WS-DL%20Review) each January.
+The barriers in publishing a yearly review are rigid and tough to overcome given the many other obligations of academia. For finally getting this post out-the-door I want to thank the motivation of [Dr. Jina Huh-Yoo](https://jinahuhyoo.com/), who has managed to publish [her year-in-review while at Drexel](https://jinahuhyoophd.medium.com/2021-year-in-review-health-and-happiness-design-lab-at-drexel-university-33971bb5da14), and also the [ODU WS-DL research group](https://ws-dl.cs.odu.edu), who continually publishes [such posts](https://ws-dl.blogspot.com/search/label/WS-DL%20Review) each January.
