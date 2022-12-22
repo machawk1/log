@@ -51,7 +51,7 @@ In June 2022 at the ACM/IEEE Joint Conference on Digital Libraries 2022, I helpe
 
 ![ICADL 2022 Logo >](/assets/2022-12-30/icadl-2022.png){: .logo}
 
-Finally, less than a month ago, I remotely presented my full paper, "Aggregator Reuse and Extension for Richer Web Archive Interaction" at the [International Conference on Asia-Pacific Digital Libraries (ICADL 2022)](https://icadl.net/icadl2022/), which was held in Hanoi, Vietnam. This is the first I have published after this conference, now having completed the DL conference trifecta of JCDL, TPDL, and ICADL. 
+Finally, less than a month ago, I remotely presented my full paper, "[Aggregator Reuse and Extension for Richer Web Archive Interaction](https://matkelly.com/papers/2022_icadl_chaining.pdf)" at the [International Conference on Asia-Pacific Digital Libraries (ICADL 2022)](https://icadl.net/icadl2022/), which was held in Hanoi, Vietnam. This is the first I have published after this conference, now having completed the DL conference trifecta of JCDL, TPDL, and ICADL. 
 
 # Teaching
 
