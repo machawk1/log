@@ -1,6 +1,7 @@
 IMLS
 NLG
 NSF
+nsf
 imls
 ASIST
 ISKO
@@ -40,7 +41,8 @@ Yoo
 Zhiwu
 choi
 hyung
-rauch wook
+rauch
+wook
 
 Anat
 Jäschke
@@ -50,12 +52,13 @@ iFromm
 anatbd
 zu
 zarrillogical
+nkle
 
 
 ODU
 CCI
 Drexel
-DL'S
+DL's
 WS
 MITRE
 Alamos
