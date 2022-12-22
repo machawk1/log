@@ -12,11 +12,17 @@ WADL
 TPDL
 CIKM
 IIPC
+ASIS
+DL
 
 alex
 christopher
+chris
 deanna
 erjia
+Frommholz
+Greenberg's
+Ingo
 Jina
 michael
 michele
@@ -32,6 +38,19 @@ zarrillo
 Xie
 Yoo
 Zhiwu
+choi
+hyung
+rauch wook
+
+Anat
+Jäschke
+Sante
+
+iFromm
+anatbd
+zu
+zarrillogical
+
 
 ODU
 CCI
@@ -41,11 +60,19 @@ WS
 MITRE
 Alamos
 Springer
+LANL
+Universität
+zxie
+erjiayan
+CCI's
+Aalborg
+
 
 jpeg
 
 COVID
 LIS
+yir
 
 webads
 wsdl
