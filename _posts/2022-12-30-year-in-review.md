@@ -32,7 +32,7 @@ After a long period of negotiation, we were ability to solidify a collaboration 
 
 ![IMLS Logo >](/assets/2022-08-17-imls.jpeg){: .logo}
 
-In late July 2022, I was information that our grant proposal to the <a href="https://www.imls.gov/">Institute of Museum and Library Services (IMLS)</a> relating to investigating the past and contemporary usage of ads on the web was funded! This collaboration with my PhD advisors, Drs. [Michele C. Weigle](https://weiglemc.github.io/) and [Michael L. Nelson](https://www.cs.odu.edu/~mln/) from [ODU](https://www.odu.edu/), as well as my colleague, <a href="https://drexel.edu/cci/about/directory/P/Poole-Alex/">Dr. Alex H. Poole</a> from Drexel CCI will support both Drexel and ODU students until 2024 to execute the grant tasks. More information about the grant can be had on the [grant summary page](https://www.imls.gov/grants/awarded/lg-252362-ols-22).
+In late July 2022, I was information that our grant proposal to the <a href="https://www.imls.gov/">Institute of Museum and Library Services (IMLS)</a> relating to investigating the past and contemporary usage of ads on the web was funded! This collaboration with my PhD advisors, Drs. [Michele C. Weigle](https://weiglemc.github.io/) ([@weiglemc](https://twitter.com/weiglemc/)) and [Michael L. Nelson](https://www.cs.odu.edu/~mln/) ([@phonedude_mln](https://twitter.com/phonedude_mln)) from [ODU](https://www.odu.edu/), as well as my colleague, <a href="https://drexel.edu/cci/about/directory/P/Poole-Alex/">Dr. Alex H. Poole</a> from Drexel CCI will support both Drexel and ODU students until 2024 to execute the grant tasks. More information about the grant can be had on the [grant summary page](https://www.imls.gov/grants/awarded/lg-252362-ols-22).
 
 
 # Dissemination
