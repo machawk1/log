@@ -71,9 +71,9 @@ TOADD: student's defenses and progression
 
 # An Eventful Summer
 
-Summer is typically reserved for research, planning, writing, and preparing for the upcoming school year. As with Spring term, all was progressing as it should. At the end of June, 2023, I traveled to Santa Fe, New Mexico to assist with the [2023 ACM/IEEE Joint Conference on Digital Libraries](https://2023.jcdl.org) as a [conference program chair](https://2023.jcdl.org/organizers/organizing-committee/#:~:text=Alamos%20National%20Laboratory-,Program%20Chairs,-Anat%20Ben%2DDavid). This was the first in-person conference I had attended since the Fall of 2019 due to the pandemic. It was great to catch up with former colleagues, learn more about the inner-working of an in-person conference
+Summer is typically reserved for research, planning, writing, and preparing for the upcoming school year. As with Spring term, all was progressing as it should. At the end of June, 2023, I traveled to Santa Fe, New Mexico to assist with the [2023 ACM/IEEE Joint Conference on Digital Libraries](https://2023.jcdl.org) as a [conference program chair](https://2023.jcdl.org/organizers/organizing-committee/#:~:text=Alamos%20National%20Laboratory-,Program%20Chairs,-Anat%20Ben%2DDavid) (see [ODU WS-DL's Trip Report](https://ws-dl.blogspot.com/2023/07/2023-07-26-acmieee-joint-conference-on.html)). This was the first in-person conference I had attended since the Fall of 2019 due to the pandemic. It was great to catch up with former colleagues, learn more about the inner-working of an in-person conference
 
-WADL.
+WADL. https://ws-dl.blogspot.com/2023/08/2023-08-10web-archiving-and-digital.html link to report in proceedings
 
 # Fall 2023
 
