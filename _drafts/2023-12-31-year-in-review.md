@@ -65,7 +65,7 @@ Spring quarter had me teaching INFO202 - Data Curation for the third time in my 
 
 (add pic of Benjamin, Erjia, Deborah, etc.)
 
-On May 14, 2023 we took our 1-year-old Benjamin (introduced in the [Teaching Section of the 2023 Year-in-Review](https://log.lab.matkelly.com/year-in-review-2022#:~:text=in%20future%20iterations.-,In%20Spring%202022,-%2C%20I%20was%20on) to the emergency room where he was diagnosed with Type 1 diabetes. I mention this here because the recently graduate PhD student, now Dr. Deborah Garwood, was able to substitute in and teach multiple lecture of the course in its original form. For that I am grateful. I was able to return to instruction with one final data-based assignment before wrapping up the school year for an unfortunately eventful Summer. I still owe Ed an email about these adaptation.
+On May 14, 2023 we took our 1-year-old Benjamin (introduced in the [Teaching Section of the 2023 Year-in-Review](https://log.lab.matkelly.com/year-in-review-2022#:~:text=in%20future%20iterations.-,In%20Spring%202022,-%2C%20I%20was%20on) to the emergency room where he was diagnosed with Type 1 diabetes. I mention this here because the recently graduate PhD student, now Dr. Deborah Garwood, was able to substitute in and teach multiple lecture of the course in its original form. For that I am grateful. I was able to return to instruction with one final data-based assignment before wrapping up the school year for an unfortunately eventful Summer. I still owe Ed an email about these adaptation. There was a plan to have a separate blog post on the updates (and perhaps there eventually will be) but life got in the way of this instance.
 
 TOADD: student's defenses and progression
 
