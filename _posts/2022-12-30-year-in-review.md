@@ -4,7 +4,7 @@ title:  "MatLab 2022 Year-in-Review"
 author: "Mat Kelly <@machawk1>"
 slug: 'year-in-review-2022'
 background: assets/2022-12-30/2022-12-30-yir.jpeg
-image: assets/2022-12-30/2022-12-30-yir.jpeg
+image: /assets/2022-12-30/2022-12-30-yir.jpeg
 tags: year-in-review hyung-wook-choi christopher-rauch erjia-yan deanna-zarrillo imls nsf
 excerpt: It was eventful year! In this post we detail news relating to students, funding, dissemination, and courses that occurred in 2022.
 excerpt_separator: <!-- endexcerpt -->
