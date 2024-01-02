@@ -2,7 +2,7 @@
 layout: post
 title:  "MatLab 2022 Year-in-Review"
 author: "Mat Kelly"
-creator: "@machawk1"
+creator: "machawk1"
 slug: 'year-in-review-2022'
 background: assets/2022-12-30/2022-12-30-yir.jpeg
 image: /assets/2022-12-30/2022-12-30-yir.jpeg
