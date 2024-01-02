@@ -8,7 +8,7 @@ excerpt: A year among years, this is the report of our research group's 2023 rel
 excerpt_separator: <!-- endexcerpt -->
 ---
 
-A year among years, this is the report of our research group's 2023 relating to students, funding, dissemination, teaching, and service.
+A year among years&mdash;this is the report of our research group's 2023 relating to students, funding, dissemination, teaching, and service.
 <!-- endexcerpt -->
 <!--
 add link to ed's course
@@ -18,7 +18,7 @@ TODO: spell check this document
 TODO: add link to Edsu's course
 -->2023 for our research group was eventful for both fortunate and unfortunate reasons. It is useful to review all that was encapsulated within the past twelve months for our own perspective as well as to serve as a record on how we might improve in the future. This is the second in a series of yearly reviews (the first being the [review of 2022](year-in-review-2022)).
 
-In this summary of 2023, I cover aspects relating to [students](#students), [funding](#funding), [dissemination](#dissemination), [teaching](#teaching), [service](#service), [upcoming endeavors](#upcoming), and [a personal side](#personal).
+In this summary of 2023, I cover aspects relating to [students](#students), [funding](#funding), [dissemination](#dissemination), [teaching](#teaching), [service](#service), [upcoming endeavors](#upcoming), and [a personal aside](#personal).
 
 Before starting with our own, I want to first acknowledge others' similar report. This list will be amended inline as I become aware of them.
 
@@ -119,7 +119,7 @@ Ebbs and flows this year. Some personal matters caused personal and professional
 
 ![Benjamin >](/assets/2024-01-02/benjamin.jpg){: .logo}
 
-While halfway through the term of teaching INFO202, on May 14, 2023 we took our 1-year-old Benjamin (introduced in the [Teaching Section of the 2023 Year-in-Review](https://log.lab.matkelly.com/year-in-review-2022#:~:text=in%20future%20iterations.-,In%20Spring%202022,-%2C%20I%20was%20on) to the emergency room where he was diagnosed with Type 1 diabetes. Recently graduate PhD student, now Dr. Deborah Garwood, was able to substitute in and teach multiple lectures of the course in its original form. For that I am grateful.
+While halfway through the term of teaching INFO202, on May 14, 2023, we took our 1-year-old Benjamin (introduced in the [Teaching Section of the 2023 Year-in-Review](https://log.lab.matkelly.com/year-in-review-2022#:~:text=in%20future%20iterations.-,In%20Spring%202022,-%2C%20I%20was%20on) to the emergency room where he was diagnosed with Type 1 diabetes. Recently graduate PhD student, now Dr. Deborah Garwood, was able to substitute in and teach multiple lectures of the course in its original form. For that I am grateful.
 
 Nearly immediately after returning from JCDL 2023 in Santa Fe in July, I was hospitalized with severe chest pain that I thought surely was my end and part of the motivation for publishing a report like this, even if the mention was a subtext. It was chalked up to coronary vasospasm, of which I have no history. I am still uncertain if it has any relation to the travel.
 
@@ -144,3 +144,5 @@ And lastly, as the year was coming to a clone, my last remaining grandmother, Ei
 # Acknowledgments
 
 I want to thank the universe for not putting an end to me in July and allowing time to put this post together. I am hoping for this yearly to be more eventful in a positive light and to produce a more optimistic year-in-review post the end of 2024.
+
+The photo in the header is an original capture from Forksville, Pensylvania in August 2023 and should be considered public domain. Please feel free to email me, DM me, or [submit a PR](https://github.com/machawk1/log) if you notice any errors or omissions. I will acknowledge them here.
