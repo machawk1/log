@@ -71,10 +71,10 @@ In 2023, I will be involved as a Program Chair in helping to organize the [ACM/I
 
 ![CIKM 2023 Logo >](/assets/2022-12-30/cikm-2023.png){: .logo}
 
-Additionally, at the invite of [Dr. Ingo Frommholz](http://www.frommholz.org/) ([@iFromm](https://twitter.com/iFromm)), I will be serving as the Publicity Chair on the Organizing Committee of the [ACM International Conference on Information and Knowledge Management (CIKM) 2023](https://cikm2023.github.io/). More info to come on that conference as we move into the new year. <!--(TOADD: CIKM 2023 logo)-->
+Additionally, at the invite of [Dr. Ingo Frommholz](http://www.frommholz.org/) ([@iFromm](https://twitter.com/iFromm)), I will be serving as the Publicity Chair on the Organizing Committee of the [ACM International Conference on Information and Knowledge Management (CIKM) 2023](https://cikm2023.github.io/). More info to come on that conference as we move into the new year.
 
 
-![IJDL Logo >](/assets/2022-12-30/iipcwac-2023.png){: .logo}
+![IIPC WAC Logo >](/assets/2022-12-30/iipcwac-2023.png){: .logo}
 
 Lastly, just prior to posting this review in early December I was notified of the acceptance of our proposal, "Using Web Archives to Model Academic Migration and Identify Brain Drain" at the [International Internet Preservation Consortium (IIPC) Web Archiving Conference (WAC) 2023](https://netpreserve.org/ga2022/), to occur in May 2023. More information on this presentation disseminating progress on our [NSF-funded](#funding) grant will be available in the future.
 
