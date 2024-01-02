@@ -140,6 +140,7 @@ And lastly, as the year was coming to a close, my last remaining grandparent, Ei
 * Two grants progressed
 * One workshop organized and run
 * Two conferences attended in person
+* One heart attack
 
 # Acknowledgments
 
