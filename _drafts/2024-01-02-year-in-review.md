@@ -2,7 +2,7 @@
 layout: post
 title:  "2023 Year-in-Review"
 slug: 'year-in-review-2023'
-background: assets/2023-12-31/2022-12-31-yir.jpeg
+background: assets/2024-01-02/2023-01-02-yir.jpeg
 tags: year-in-review hyung-wook-choi christopher-rauch erjia-yan deanna-zarrillo imls nsf
 excerpt: It was eventful year! In this post we detail news relating to students, funding, dissemination, and courses that occurred in 2022.
 excerpt_separator: <!-- endexcerpt -->
