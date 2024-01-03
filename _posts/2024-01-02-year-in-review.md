@@ -7,7 +7,7 @@ slug: 'year-in-review-2023'
 background: assets/2024-01-02/2024-01-02-yir.jpeg
 image: /assets/2024-01-02/twitter-card2.jpg
 imagedesc: "Waterfall in Forksville, PA that acts as a header image for the blog post"
-tags: year-in-review hyung-wook-choi christopher-rauch erjia-yan deanna-zarrillo imls nsf sam-grabus hanieh-razzaghi odu jcdl wadl iipc-wac tweb 
+tags: year-in-review hyung-wook-choi christopher-rauch erjia-yan deanna-zarrillo imls nsf sam-grabus hanieh-razzaghi odu jcdl wadl iipc-wac tweb info624 info102 info202
 excerpt: A year among years, this is the report of our research group's 2023 relating to students, funding, dissemination, teaching, and service.
 excerpt_separator: <!-- endexcerpt -->
 ---
@@ -87,14 +87,21 @@ In the Fall quarter of 2023, I taught INFO624: Information Retrieval Systems to 
 
 # Travel 
 
+![Cathedral Basilica of St. Francis of Assisi in Santa Fe, NM >](/assets/2024-01-02/santafe_cathedral.jpg){: .fullwidth}
 
 ![JCDL 2023 Logo >](/assets/2022-12-30/jcdl-2023.png){: .logo}
 
-I had two travel events this year -- one to the [ACM/IEEE Joint Conference on Digital Libraries (JCDL) 2023](https://2023.jcdl.org/) in Santa Fe, New Mexico (where I was a [conference program chair](https://2023.jcdl.org/organizers/organizing-committee/#:~:text=Alamos%20National%20Laboratory-,Program%20Chairs,-Anat%20Ben%2DDavid)) (see [ODU WS-DL's Trip Report](https://ws-dl.blogspot.com/2023/07/2023-07-26-acmieee-joint-conference-on.html)) and one to Birmingham, UK to the [ACM Conference on Information and Knowledge Management (CIKM 2023)](https://uobevents.eventsair.com/cikm2023/) where I was the publicity chair.
+I had two travel events this year -- one to the [ACM/IEEE Joint Conference on Digital Libraries (JCDL) 2023](https://2023.jcdl.org/) in Santa Fe, New Mexico (where I was a [conference program chair](https://2023.jcdl.org/organizers/organizing-committee/#:~:text=Alamos%20National%20Laboratory-,Program%20Chairs,-Anat%20Ben%2DDavid)) (see [ODU WS-DL's Trip Report](https://ws-dl.blogspot.com/2023/07/2023-07-26-acmieee-joint-conference-on.html)) and one to Birmingham, UK to the [ACM Conference on Information and Knowledge Management (CIKM 2023)](https://uobevents.eventsair.com/cikm2023/) where I was the publicity chair ([@cikm2023](https://x.com/cikm2023)) for the conference.
+
+<br style="clear: both;">
+
+![Great Hall at University of Birmingham >](/assets/2024-01-02/brum_greathall.jpg){: .fullwidth}
 
 ![CIKM 2023 Logo >](/assets/2024-01-02/cikm.jpeg){: .logo}
 
 Both were great opportunities to catch up with former colleagues, learn more about the  workings of an in-person conference, and interface with researchers investigating contemporary topics in their respective fields. Along with being an organizer at JCDL, I was also the lead in the [WADL Workshop](https://fox.cs.vt.edu/wadl2023.html) while there in person. We hosted a hybrid audience and presenters with self-admitted success and hope to hold the event again in the future. The fine folks at ODU WS-DL also have provided a report on [their experience of the workshop](https://ws-dl.blogspot.com/2023/08/2023-08-10web-archiving-and-digital.html).
+
+<br style="clear: both;">
 
 # Service
 
