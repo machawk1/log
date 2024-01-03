@@ -98,3 +98,10 @@ a[href^="https://twitter.com/"] {
 
 li a {text-decoration: underline;}
 h2 {font-size: 1.5rem; }
+
+@media (max-width: 480px) {
+  img[alt$=">"] {
+    float: none;
+  }
+}
+    
