@@ -149,9 +149,11 @@ And lastly, as the year was coming to a close, my last remaining grandparent, Ei
 
 * Two journal articles published
 * Two conference presentations given
+* Three courses taught
 * Two grants progressed
 * One workshop organized and run
 * Two conferences attended in person
+* One-and-one-half students advised
 * One heart attack
 
 # Acknowledgments
