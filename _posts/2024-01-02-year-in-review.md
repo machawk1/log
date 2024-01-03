@@ -50,6 +50,8 @@ Additionally, I was pleased to be involved in the Ph.D. candidacy review of Drex
 
 ![IMLS Logo >](/assets/2022-08-17-imls.jpeg){: .logo}
 
+![Alex Poole, Drexel CCI collaborator >](/assets/2024-01-02/alex-poole.jpg){: .mug .hideonmobile}
+
 In 2023, we continued our investigation of the <a href="https://www.imls.gov/">IMLS</a>-funded project titled "[Saving Ads: Assessing and Improving Web Archives' Holdings of Online Advertisements](https://www.imls.gov/grants/awarded/lg-252362-ols-22)". In collaboration with Drs. [Michele C. Weigle](https://weiglemc.github.io/) ([@weiglemc](https://x.com/weiglemc/)) and [Michael L. Nelson](https://www.cs.odu.edu/~mln/) ([@phonedude_mln](https://x.com/phonedude_mln)) at [Old Dominion University](https://www.odu.edu/)'s [WS-DL Research Group](https://oduwsdl.github.io/), Dr. Alex H. Poole from [Drexel CCI](https://drexel.edu/cci/), and student support from Chris and Ph.D. student [Travis Reid](https://sites.google.com/view/treid803/home) ([@TReid803](https://x.com/TReid803)), we were able to explore some of the nuances of the past preservation and contemporary state of archiving advertisements on the web. A report of the first year of our findings as well as a pending follow-up investigation is described in the [Upcoming section](#upcoming) below.
 
 ![NSF Logo >](/assets/2024-01-02/nsf.png){: .logo}
@@ -59,8 +61,6 @@ Beyond the IMLS funding, I have been grateful to be involved in the NSF Science 
 ![LEADING Logo >](/assets/2022-12-30/leading.png){: .logo}
 
 Lastly, we wrapped up the [final cohort](https://mrc.cci.drexel.edu/leading/fellows/) of the IMLS-funded [LIS Education And Data Science Integrated Network Group (LEADING)](https://mrc.cci.drexel.edu/leading/) project in December 2023. An overview of "Next Steps..." for the project was presented at the [Coalition for Networked Information (CNI) Fall 2023 Membership Meeting](https://www.cni.org/events/membership-meetings/past-meetings/fall-2023).
-
-![Alex Poole, Drexel CCI collaborator >](/assets/2024-01-02/alex-poole.jpg){: .mug}
 
 # Dissemination
 
@@ -86,6 +86,7 @@ Spring quarter had me teaching INFO202 - Data Curation for the third time in my 
 In the Fall quarter of 2023, I taught INFO624: Information Retrieval Systems to a cross-listed course of 24 students, 12 of whom were in-person at Drexel CCI and 12 online. This was the fourth time I taught the course and incorporated some newer assignment material where students had a chance to become more familiar with [Elasticsearch](https://www.elastic.co/elasticsearch) through implementing concepts described in class.
 
 # Travel 
+
 
 ![JCDL 2023 Logo >](/assets/2022-12-30/jcdl-2023.png){: .logo}
 

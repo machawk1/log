@@ -109,5 +109,14 @@ h2 {font-size: 1.5rem; }
     margin-right: auto;
     display: block;
   }
+
+  img.logo {
+    width: 150px;
+    float: right;
+  }
+
+  img.hideonmobile {
+    display: none;
+  }
 }
     
