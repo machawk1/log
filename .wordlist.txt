@@ -102,7 +102,9 @@ iPRES
 cikm
 UMD
 edwardafox
-camthewicked
+CamtheWicked
+sizeable
+Garwoodd
 ISSI
 Informetrics
 Scientometrics
@@ -111,6 +113,9 @@ preprint
 YAMZ
 Greenberg
 TWEB
+tweb
+hanieh
+grabus
 CNI
 DCI
 SoS
@@ -123,7 +128,8 @@ Grabus
 Datasets
 rosinaweber
 Rosina
-Ekstrandwadl
+Ekstrand
+wadl
 wac
 sam
 razzaghi
