@@ -20,7 +20,7 @@ TOADD: submitted, pending, failed proposals
 TODO: add mention of YAMZ
 TODO: spell check this document
 TODO: add link to Edsu's course
--->2023 for our research group was eventful for both fortunate and unfortunate reasons. It is useful to review all that was encapsulated within the past twelve months for our perspective as well as to serve as a record of how we might improve in the future. This is the second in a series of yearly reviews (the first being the [review of 2022](year-in-review-2022)).
+-->For our research group, 2023 was eventful for both fortunate and unfortunate reasons. It is useful to review all that was encapsulated within the past twelve months for our perspective as well as to serve as a record of how we might improve in the future. This is the second in a series of yearly reviews (the first being the [review of 2022](year-in-review-2022)).
 
 In this summary of 2023, I cover aspects relating to [students](#students), [funding](#funding), [dissemination](#dissemination), [teaching](#teaching), [service](#service), [upcoming endeavors](#upcoming), and [a personal aside](#personal).
 
