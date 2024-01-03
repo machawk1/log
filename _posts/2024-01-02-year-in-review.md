@@ -7,7 +7,7 @@ slug: 'year-in-review-2023'
 background: assets/2024-01-02/2024-01-02-yir.jpeg
 image: /assets/2024-01-02/twitter-card2.jpg
 imagedesc: "Waterfall in Forksville, PA that acts as a header image for the blog post"
-tags: year-in-review hyung-wook-choi christopher-rauch erjia-yan deanna-zarrillo imls nsf sam-grabus hanieh-razzaghi odu jcdl wadl iipc-wac tweb info624 info102 info202
+tags: year-in-review hyung-wook-choi christopher-rauch erjia-yan deanna-zarrillo imls nsf sam-grabus hanieh-razzaghi odu jcdl wadl iipc-wac cikm tweb info624 info102 info202
 excerpt: A year among years, this is the report of our research group's 2023 relating to students, funding, dissemination, teaching, and service.
 excerpt_separator: <!-- endexcerpt -->
 ---
