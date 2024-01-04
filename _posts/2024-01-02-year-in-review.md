@@ -160,4 +160,4 @@ And lastly, as the year was coming to a close, my last remaining grandparent, Ei
 
 I want to thank the universe for not putting an end to me in July and allowing me time to put this post together. I am hoping for this yearly to be more eventful in a positive light and to produce a more optimistic year-in-review post the end of 2024.
 
-The photo in the header is an original capture from Forksville, Pennsylvania in August 2023 and should be considered public domain. Please feel free to email me, DM me, or [submit a PR](https://github.com/machawk1/log) if you notice any errors or omissions. I will acknowledge them here.
+The photos in this post are original captures and should be considered public domain. For completeness, they are from Forksville, Pennsylvania in August 2023 (post header); the Cathedral of St. Francis of Assisi in Santa Fe, New Mexico (JCDL 2023) in June 2023 ; and The Great Hall at University of Birmingham in Birmingham, UK (CIKM 2023) from October 2023. Please feel free to email me, DM me, or [submit a PR](https://github.com/machawk1/log) if you notice any errors or omissions. I will acknowledge them here.
