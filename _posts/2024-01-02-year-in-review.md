@@ -27,6 +27,7 @@ In this summary of 2023, I cover aspects relating to [students](#students), [fun
 Before starting with our own, I want to first acknowledge others' similar reports. This list will be amended inline as I become aware of them.
 
 * Michael Ekstrand (new Drexel CCI faculty) [2023 in Review](https://md.ekstrandom.net/blog/2023/12/2023)
+* ODU WS-DL (PhD research group) [Review of WS-DL's 2023](https://ws-dl.blogspot.com/2024/04/2024-04-15-review-of-ws-dls-2023.html)
 
 # Students
 
