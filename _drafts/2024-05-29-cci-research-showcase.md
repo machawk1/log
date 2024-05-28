@@ -19,3 +19,39 @@ I have reiterated the advice that started this post to my PhD, Hyung Wook Choi, 
 
 This post is a brief summary of this brief event.
 
+# The Event
+
+The event commenced at 4 pm on the 10th floor of Drexel CCI in Philadelphia. The event was composed of a series of X lightning talks at 5 minutes a piece starting at 5 pm and a (preceding?) poster session.
+
+# Poster Session 
+
+Layla Bouzoubaa
+Kshitij Kayastha
+Manil Shrestha
+Steve Earth
+Sonia Pascua
+Katie Zellner
+Aria Pessianzadeh
+Lu Wang
+David Breen
+Abass Ahmed
+
+# Lightning Talks
+
+Steve Earth
+
+Hyung Wook Choi
+Edward Kim
+
+Shadi Rezapour
+Mat Kelly
+Afsaneh Razi
+Sonia Pascua
+
+# FOOD
+
+lorem ipsum
+
+# Closing
+
+lorem ipsum
