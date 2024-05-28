@@ -23,7 +23,7 @@ This post is a brief summary of this brief event.
 
 The event commenced at 4 pm on the 10th floor of Drexel CCI in Philadelphia. The event was composed of a series of X lightning talks at 5 minutes a piece starting at 5 pm and a (preceding?) poster session.
 
-# Poster Session 
+## Poster Session 
 
 Layla Bouzoubaa
 Kshitij Kayastha
@@ -36,7 +36,7 @@ Lu Wang
 David Breen
 Abass Ahmed
 
-# Lightning Talks
+## Lightning Talks
 
 Steve Earth
 
