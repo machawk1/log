@@ -15,7 +15,7 @@ I was advised of this (by <a href="https://x.com/phonedude_mln">@phonedude_mln</
 
 I opted to present.
 
-I have reiterated the advice that started this post to my PhD, Hyung Wook Choi, who also opted to present.
+I have reiterated the advice that started this post to my PhD, <a href="https://choihywook.github.io/">Hyung Wook Choi</a>, who also opted to present.
 
 This post is a brief summary of this brief event.
 
@@ -52,6 +52,6 @@ Sonia Pascua
 
 lorem ipsum
 
-# Closing
+# Closing and Acknowledgement
 
 lorem ipsum
