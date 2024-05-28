@@ -48,7 +48,7 @@ Mat Kelly
 Afsaneh Razi
 Sonia Pascua
 
-# FOOD
+# Refreshments
 
 lorem ipsum
 
