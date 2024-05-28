@@ -8,7 +8,7 @@ excerpt: PhD student and research faculty were offered an opportunity to present
 ---
 
 <blockquote>
-"Never miss an opportunity to present your research"
+"Never miss an opportunity to present your research."
 </blockquote>
 
 I was advised of this (by @phonedude_mln) while a PhD student. On May 28, 2024, the Drexel CCI Doctoral Student Association (DSA) held the First Annual Research Showcase, which invited students, faculty, and others in the college to present and witness ongoing research by any students or faculty that opted to present.
