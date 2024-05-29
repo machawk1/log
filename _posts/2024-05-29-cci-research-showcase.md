@@ -15,7 +15,7 @@ excerpt: PhD student and research faculty were offered an opportunity to present
 "Never miss an opportunity to present your research."
 </blockquote>
 
-I was advised of this (by <a href="https://x.com/phonedude_mln">@phonedude_mln</a>) while a PhD student. On May 28, 2024, the <a href="https://drexel.edu/cci/current-students/doctoral-students/cci-doctoral-student-association/">Drexel CCI Doctoral Student Association (DSA)</a> held the First Annual Research Showcase, which invited students, faculty, and others in the college to present and witness ongoing research by any students or faculty that opted to present.
+I was advised of this (by <a href="https://x.com/phonedude_mln">@phonedude_mln</a>) while a PhD student. On May 28, 2024, the <a href="https://drexel.edu/cci/">Drexel CCI</a> <a href="https://drexel.edu/cci/current-students/doctoral-students/cci-doctoral-student-association/">Doctoral Student Association (DSA)</a> held the First Annual Research Showcase, which invited students, faculty, and others in the college to present and witness ongoing research by any students or faculty that opted to present.
 
 I opted to present.
 
@@ -59,6 +59,8 @@ Attendees were able to walk around with refreshments for the first hour of the e
 <br style="clear: both;" />
 ![Abass presenting his poster >](/assets/2024-05-29/2024-05-29-abass.jpg){: width="200" }
 <span class="person">Abass Ahmed</span> (<a href="https://x.com/unbent_">@unbent_</a>) presented his poster exploring the current state of immigrant support in the Shenandoah Valley region of Virginia.
+
+<br >
 
 ## Lightning Talks
 
