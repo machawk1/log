@@ -73,9 +73,9 @@ My PhD student, <span class="person"><a href="https://choihywook.github.io/about
 
 <span class="person"><a href="https://www.shadirezapour.com/">Shadi Rezapour</a></span> (<a href="https://x.com/shadi_rezapour">@shadi_rezapour</a>) talked about her work on integrating methods of exploring online interaction to enhance socially aware models.
 
-I (<span class="person">Mat Kelly</span>, <a href="https://x.com/machawk1">@machawk1</a>) presented a summary of my research on complex information retrieval tasks for web archives in dimensions beyond time.
+I (<span class="person">Mat Kelly</span>, <a href="https://x.com/machawk1">@machawk1</a>) presented a summary of my research on complex information retrieval tasks for web archives in dimensions beyond time (<a href="/assets/2024-05-29/slides.pdf#toolbar=0&navpanes=0&scrollbar=0">slides</a>).
 
-<iframe src="/assets/2024-05-29/slides.pdf#toolbar=0&navpanes=0&scrollbar=0" style="width: 100%; border: 0; height: 500px;" />
+<!--<iframe src="/assets/2024-05-29/slides.pdf#toolbar=0&navpanes=0&scrollbar=0" style="width: 100%; border: 0; height: 500px;" />-->
 
 <span class="person"><a href="https://www.afsanehrazi.com/">Afsaneh Razi</a></span> (<a href="https://x.com/Afsaneh_Razi">@Afsaneh_Razi</a>) talked about her recently presented papers at <a href="https://chi2024.acm.org/">CHI'24</a> discussing how teens perceive personalized content online and whether they preferred the advice of trained counselors for dire situations over the advice of AI-generated responses.
 
