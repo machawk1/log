@@ -5,7 +5,7 @@ author: "Mat Kelly"
 creator: "machawk1"
 slug: 'cci-dsa-showcase-2024'
 background: assets/2024-05-29/2024-05-29-sign.jpg?
-image: /assets/2024-05-29/2024-05-29-sign.jpg?202405291706
+image: /assets/2024-05-29/twitter-card.jpg?202405291713
 imagedesc: "Drexel CCI DSA First Annual Research Showcase"
 tags: research hyung-wook-choi drexel cci phd-dsa michael-nelson 2024 layla-bouzoubaa steve-earth sonia-pascua katie-zellner aria-pessianzadeh lu-wang abass-ahmed edward-kim shadi-rezapour afsaneh-razi weimao-ke aleksandra-sarcevic
 excerpt: PhD student and research faculty were offered an opportunity to present their research at the CCI First Annual Research Showcase
