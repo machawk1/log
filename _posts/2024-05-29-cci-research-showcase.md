@@ -64,11 +64,19 @@ Attendees were able to walk around with refreshments for the first hour of the e
 
 Following the poster session in the first hour of the event were a series of 5-minute lightning talks.
 
+![Steve >](/assets/2024-05-29/2024-05-29-steve.jpg){: width="250" }
+
 <span class="person">Steve Earth</span> (who also presented a poster) further elaborated on his exploration of skill transfer between programming education and proofwriting proficiency.
+
+![Wook >](/assets/2024-05-29/2024-05-29-wook.jpg){: width="250" }
 
 My PhD student, <span class="person"><a href="https://choihywook.github.io/about/">Hyung Wook Choi</a></span>, described her research exploring the semantic evolution of terms between domains and prior approaches that have attempted to solve similar problems.
 
+![Ed >](/assets/2024-05-29/2024-05-29-ed.jpg){: width="250" }
+
 <span class="person"><a href="https://edwardkim.net/">Edward Kim</a></span> (<a href="https://x.com/edk208">@edk208</a>) described his word on adding a "prefrontal cortex" to mitigate harms, essentially (sic) lobotomizing them.
+
+![Shadi >](/assets/2024-05-29/2024-05-29-shadi.jpg){: width="250" }
 
 <span class="person"><a href="https://www.shadirezapour.com/">Shadi Rezapour</a></span> (<a href="https://x.com/shadi_rezapour">@shadi_rezapour</a>) talked about her work on integrating methods of exploring online interaction to enhance socially aware models.
 
@@ -76,7 +84,11 @@ I (<span class="person">Mat Kelly</span>, <a href="https://x.com/machawk1">@mach
 
 <!--<iframe src="/assets/2024-05-29/slides.pdf#toolbar=0&navpanes=0&scrollbar=0" style="width: 100%; border: 0; height: 500px;" />-->
 
+![Shadi >](/assets/2024-05-29/2024-05-29-afsaneh.jpg){: width="250" }
+
 <span class="person"><a href="https://www.afsanehrazi.com/">Afsaneh Razi</a></span> (<a href="https://x.com/Afsaneh_Razi">@Afsaneh_Razi</a>) talked about her recently presented papers at <a href="https://chi2024.acm.org/">CHI'24</a> discussing how teens perceive personalized content online and whether they preferred the advice of trained counselors for dire situations over the advice of AI-generated responses.
+
+![Sonia Pascua >](/assets/2024-05-29/2024-05-29-sonia.jpg){: width="250" }
 
 <span class="person">Sonia Pascua</span> (who also had a poster) went into further detail about her dissertation research on the DLITE methods for information retrieval, particularly on how it compared to other metrics.
 
