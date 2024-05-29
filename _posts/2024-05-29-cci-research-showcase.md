@@ -56,9 +56,8 @@ Attendees were able to walk around with refreshments for the first hour of the e
 <span class="person"><a href="https://halflingwizard.github.io/">Matt Namvarpour</a></span> showed his work focusing on the roles that technology companies play in children's online safety.
 
 <!--David Breen-->
-
+<br style="clear: both;" />
 ![Abass presenting his poster >](/assets/2024-05-29/2024-05-29-abass.jpg){: width="200" }
-
 <span class="person">Abass Ahmed</span> (<a href="https://x.com/unbent_">@unbent_</a>) presented his poster exploring the current state of immigrant support in the Shenandoah Valley region of Virginia.
 
 ## Lightning Talks
