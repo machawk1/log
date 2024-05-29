@@ -80,6 +80,8 @@ My PhD student, <span class="person"><a href="https://choihywook.github.io/about
 
 <span class="person"><a href="https://www.shadirezapour.com/">Shadi Rezapour</a></span> (<a href="https://x.com/shadi_rezapour">@shadi_rezapour</a>) talked about her work on integrating methods of exploring online interaction to enhance socially aware models.
 
+![Shadi >](/assets/2024-05-29/2024-05-29-mat.jpg){: width="250" }
+
 I (<span class="person">Mat Kelly</span>, <a href="https://x.com/machawk1">@machawk1</a>) presented a summary of my research on complex information retrieval tasks for web archives in dimensions beyond time (<a href="/assets/2024-05-29/slides.pdf#toolbar=0&navpanes=0&scrollbar=0">slides</a>).
 
 <!--<iframe src="/assets/2024-05-29/slides.pdf#toolbar=0&navpanes=0&scrollbar=0" style="width: 100%; border: 0; height: 500px;" />-->
