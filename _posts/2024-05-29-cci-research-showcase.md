@@ -102,6 +102,10 @@ I (<span class="person">Mat Kelly</span>, <a href="https://x.com/machawk1">@mach
 
 After Sonia's presentation and a slight pause to socialize, awards were presented to the three best posters, as evaluated by a panel of three judges.
 
-![Liu presenting her poster>](/assets/2024-05-29/2024-05-29-awards.jpg){: .fullwidth }
+![Awards>](/assets/2024-05-29/2024-05-29-awards.jpg){: .fullwidth }
 
-Overall, the First Annual Research Showcase put on by Drexel CCI's Doctoral Student Association was a great chance to hear about students' and faculty's ongoing research as well as to get together in an informal setting to socialize with our CCI peers. I look forward to the DSA putting on this event again in 2025.
+<br style="clear: both;" />
+
+![Steve >](/assets/2024-05-29/2024-05-29-layla.jpg){: width="250" }
+
+Overall, the First Annual Research Showcase put on by Drexel CCI's Doctoral Student Association was a great chance to hear about students' and faculty's ongoing research as well as to get together in an informal setting to socialize with our CCI peers. I look forward to the DSA putting on this event again in 2025. A special thanks goes to Layla Bouzoubaa for organizing the event.
