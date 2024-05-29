@@ -27,7 +27,7 @@ This post is a summary of this brief event.
 
 ![DSA logo >](/assets/2024-05-29/dsa-logo.png){: width="300" .centered }
 
-The event commenced at 4 pm on the 10th floor of Drexel CCI in Philadelphia. The event was composed of 7 student posters and a series of 8 5-minute lightning talks at 5 pm following the poster session.
+The event commenced at 4 pm on the 10th floor of Drexel CCI in Philadelphia. The event was composed about a dozen student posters and a series of 8 5-minute lightning talks at 5 pm following the poster session.
 
 ## Poster Session 
 
