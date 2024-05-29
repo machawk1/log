@@ -86,8 +86,14 @@ My PhD student, <span class="person"><a href="https://choihywook.github.io/about
 
 ![Shadi >](/assets/2024-05-29/2024-05-29-mat.jpg){: width="250" }
 
-I (<span class="person">Mat Kelly</span>, <a href="https://x.com/machawk1">@machawk1</a>) presented a summary of my research on complex information retrieval tasks for web archives in dimensions beyond time (<a href="/assets/2024-05-29/slides.pdf#toolbar=0&navpanes=0&scrollbar=0">slides</a>).
+I (<span class="person">Mat Kelly</span>, <a href="https://x.com/machawk1">@machawk1</a>) presented a summary of my research on complex information retrieval tasks for web archives in dimensions beyond time (<a href="/assets/2024-05-29/slides.pdf#toolbar=0&navpanes=0&scrollbar=0">slides available below</a>).
+
 <br style="clear: both;" />
+<figure style="margin: auto; text-align: center; display: flex; justify-content: center;" class="hoverfig">
+<a href="https://matkelly.com/dsa2024" target="_blank" style="display: block; width: 75%;"><img src="/assets/2024-05-29/first-slide.png" class="fullwidth" style="margin: auto; display: block;" /><figcaption style="margin-top: 0;">Slides for Mat Kelly's presentation,<br />"To Request Is Human, To Retrieve Diving"</figcaption></a>
+
+</figure>
+
 <!--<iframe src="/assets/2024-05-29/slides.pdf#toolbar=0&navpanes=0&scrollbar=0" style="width: 100%; border: 0; height: 500px;" />-->
 
 ![Shadi >](/assets/2024-05-29/2024-05-29-afsaneh.jpg){: width="250" }
