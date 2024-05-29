@@ -47,6 +47,8 @@ Attendees were able to walk around with refreshments for the first hour of the e
 
 <span class="person"><a href="https://www.katiezellner.com/">Katie Zellner</a></span> (<a href="https://x.com/katzellnerd">@katzellnerd</a>) presented her work with <a href="https://cci.drexel.edu/faculty/asarcevic/">Dr. Aleksandra Sarcevic</a> on the effectiveness of physical user interfaces in simulated medical settings.
 
+![Aria presenting his poster>](/assets/2024-05-29/2024-05-29-aria.jpg){: width="200" }
+
 <span class="person">Aria Pessianzadeh</span> (<a href="https://x.com/apessianIU">@apessianIU</a>) presented his work investigating a more refined stance model on controversial topics like Affirmative Action as reflected in Reddit comments.
 
 ![Liu presenting her poster>](/assets/2024-05-29/2024-05-29-liu.jpg){: width="200" }
