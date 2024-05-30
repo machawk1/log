@@ -116,4 +116,6 @@ After Sonia's presentation and a slight pause to socialize, awards were presente
 
 Overall, the First Annual Research Showcase put on by Drexel CCI's Doctoral Student Association was a great chance to hear about students' and faculty's ongoing research as well as to get together in an informal setting to socialize with our CCI peers. I look forward to the DSA putting on this event again in 2025. A special thanks goes to Layla Bouzoubaa for organizing the event.
 
+<hr />
+
 EDIT: Also, a special thanks to <span class="person">John Kunze</span> (<a href="https://x.com/jakkbl">@jakkbl</a>) for reporting some typos in this post after publication. They have since been corrected.
