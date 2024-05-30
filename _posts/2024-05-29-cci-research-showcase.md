@@ -78,7 +78,7 @@ My PhD student, <span class="person"><a href="https://choihywook.github.io/about
 
 ![Ed >](/assets/2024-05-29/2024-05-29-ed.jpg){: width="250" }
 
-<span class="person"><a href="https://edwardkim.net/">Edward Kim</a></span> (<a href="https://x.com/edk208">@edk208</a>) described his word on adding a "prefrontal cortex" to mitigate harms, essentially (sic) lobotomizing them.
+<span class="person"><a href="https://edwardkim.net/">Edward Kim</a></span> (<a href="https://x.com/edk208">@edk208</a>) described his work on adding a "prefrontal cortex" to mitigate harms, essentially (sic) lobotomizing them.
 
 ![Shadi >](/assets/2024-05-29/2024-05-29-shadi.jpg){: width="250" }
 
@@ -90,7 +90,7 @@ I (<span class="person">Mat Kelly</span>, <a href="https://x.com/machawk1">@mach
 
 <br style="clear: both;" />
 <figure style="margin: auto; text-align: center; display: flex; justify-content: center;" class="hoverfig">
-<a href="https://matkelly.com/dsa2024" target="_blank" style="display: block; width: 75%;"><img src="/assets/2024-05-29/first-slide.png" class="fullwidth" style="margin: auto; display: block;" /><figcaption style="margin-top: 0;">Slides for Mat Kelly's presentation,<br />"To Request Is Human, To Retrieve Diving"</figcaption></a>
+<a href="https://matkelly.com/dsa2024" target="_blank" style="display: block; width: 75%;"><img src="/assets/2024-05-29/first-slide.png" class="fullwidth" style="margin: auto; display: block;" /><figcaption style="margin-top: 0;">Slides for Mat Kelly's presentation,<br />"To Request Is Human, To Retrieve Divine"</figcaption></a>
 
 </figure>
 
@@ -115,3 +115,5 @@ After Sonia's presentation and a slight pause to socialize, awards were presente
 ![Steve >](/assets/2024-05-29/2024-05-29-layla.jpg){: width="250" }
 
 Overall, the First Annual Research Showcase put on by Drexel CCI's Doctoral Student Association was a great chance to hear about students' and faculty's ongoing research as well as to get together in an informal setting to socialize with our CCI peers. I look forward to the DSA putting on this event again in 2025. A special thanks goes to Layla Bouzoubaa for organizing the event.
+
+EDIT: Also, a special thanks to <span class="person">John Kunze</span> (<a href="https://x.com/jakkbl">@jakkbl</a>) for reporting some typos in this post after publication. They have since been corrected.
