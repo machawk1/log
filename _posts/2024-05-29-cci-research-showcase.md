@@ -47,11 +47,11 @@ Attendees were able to walk around with refreshments for the first hour of the e
 
 <span class="person"><a href="https://www.katiezellner.com/">Katie Zellner</a></span> (<a href="https://x.com/katzellnerd">@katzellnerd</a>) presented her work with <a href="https://cci.drexel.edu/faculty/asarcevic/">Dr. Aleksandra Sarcevic</a> on the effectiveness of physical user interfaces in simulated medical settings.
 
-![Aria presenting his poster>](/assets/2024-05-29/2024-05-29-aria.jpg){: width="200" }
+![Aria presenting his poster>](/assets/2024-05-29/2024-05-29-aria.jpg){: width="200" .fullwidthmobile}
 
 <span class="person">Aria Pessianzadeh</span> (<a href="https://x.com/apessianIU">@apessianIU</a>) presented his work investigating a more refined stance model for controversial topics like Affirmative Action as reflected in Reddit comments. He anticipated his model to be generally applicable to other controversial topics discussed in online discourse.
 
-![Lu presenting her poster>](/assets/2024-05-29/2024-05-29-lu.jpg){: width="200" }
+![Lu presenting her poster>](/assets/2024-05-29/2024-05-29-lu.jpg){: width="200" .fullwidthmobile}
 
 <span class="person">Lu Wang</span>'s poster described her research in detecting biases in large language models (LLMs), how to measure them, and how to mitigate them.
 
@@ -59,7 +59,7 @@ Attendees were able to walk around with refreshments for the first hour of the e
 
 <!--David Breen-->
 <br style="clear: both;" />
-![Abass presenting his poster >](/assets/2024-05-29/2024-05-29-abass.jpg){: width="200" }
+![Abass presenting his poster >](/assets/2024-05-29/2024-05-29-abass.jpg){: width="200" .fullwidthmobile}
 <span class="person">Abass Ahmed</span> (<a href="https://x.com/unbent_">@unbent_</a>) presented his poster exploring the current state of immigrant support in the Shenandoah Valley region of Virginia.
 
 <br >
@@ -68,39 +68,39 @@ Attendees were able to walk around with refreshments for the first hour of the e
 
 Following the poster session in the first hour of the event were a series of 5-minute lightning talks.
 
-![Steve >](/assets/2024-05-29/2024-05-29-steve.jpg){: width="250" }
+![Steve >](/assets/2024-05-29/2024-05-29-steve.jpg){: width="250"  .fullwidthmobile}
 
 <span class="person">Steve Earth</span> (who also presented a poster) further elaborated on his exploration of skill transfer between programming education and proofwriting proficiency.
 
-![Wook >](/assets/2024-05-29/2024-05-29-wook.jpg){: width="250" }
+![Wook >](/assets/2024-05-29/2024-05-29-wook.jpg){: width="250"  .fullwidthmobile}
 
 My PhD student, <span class="person"><a href="https://choihywook.github.io/about/">Hyung Wook Choi</a></span>, described her research exploring the semantic evolution of terms between domains and prior approaches that have attempted to solve similar problems.
 
-![Ed >](/assets/2024-05-29/2024-05-29-ed.jpg){: width="250" }
+![Ed >](/assets/2024-05-29/2024-05-29-ed.jpg){: width="250"  .fullwidthmobile}
 
 <span class="person"><a href="https://edwardkim.net/">Edward Kim</a></span> (<a href="https://x.com/edk208">@edk208</a>) described his work on adding a "prefrontal cortex" to mitigate harms, essentially (sic) lobotomizing them.
 
-![Shadi >](/assets/2024-05-29/2024-05-29-shadi.jpg){: width="250" }
+![Shadi >](/assets/2024-05-29/2024-05-29-shadi.jpg){: width="250"  .fullwidthmobile}
 
 <span class="person"><a href="https://www.shadirezapour.com/">Shadi Rezapour</a></span> (<a href="https://x.com/shadi_rezapour">@shadi_rezapour</a>) talked about her work on integrating methods of exploring online interaction to enhance socially aware models.
 
-![Shadi >](/assets/2024-05-29/2024-05-29-mat.jpg){: width="250" }
+![Shadi >](/assets/2024-05-29/2024-05-29-mat.jpg){: width="250"  .fullwidthmobile}
 
 I (<span class="person">Mat Kelly</span>, <a href="https://x.com/machawk1">@machawk1</a>) presented a summary of my research on complex information retrieval tasks for web archives in dimensions beyond time (<a href="/assets/2024-05-29/slides.pdf#toolbar=0&navpanes=0&scrollbar=0">slides available below</a>).
 
 <br style="clear: both;" />
 <figure style="margin: auto; text-align: center; display: flex; justify-content: center;" class="hoverfig">
-<a href="https://matkelly.com/dsa2024" target="_blank" style="display: block; width: 75%;"><img src="/assets/2024-05-29/first-slide.png" class="fullwidth" style="margin: auto; display: block;" /><figcaption style="margin-top: 0;">Slides for Mat Kelly's presentation,<br />"To Request Is Human, To Retrieve Divine"</figcaption></a>
+<a href="https://matkelly.com/dsa2024" target="_blank" style="display: block; width: 75%;"><img src="/assets/2024-05-29/first-slide.png" class="fullwidth fullwidthmobile" style="margin: auto; display: block;" /><figcaption style="margin-top: 0;">Slides for Mat Kelly's presentation,<br />"To Request Is Human, To Retrieve Divine"</figcaption></a>
 
 </figure>
 
 <!--<iframe src="/assets/2024-05-29/slides.pdf#toolbar=0&navpanes=0&scrollbar=0" style="width: 100%; border: 0; height: 500px;" />-->
 
-![Shadi >](/assets/2024-05-29/2024-05-29-afsaneh.jpg){: width="250" }
+![Shadi >](/assets/2024-05-29/2024-05-29-afsaneh.jpg){: width="250"  .fullwidthmobile}
 
 <span class="person"><a href="https://www.afsanehrazi.com/">Afsaneh Razi</a></span> (<a href="https://x.com/Afsaneh_Razi">@Afsaneh_Razi</a>) talked about her recently presented papers at <a href="https://chi2024.acm.org/">CHI'24</a> discussing how teens perceive personalized content online and whether they preferred the advice of trained counselors for dire situations over the advice of AI-generated responses.
 
-![Sonia Pascua >](/assets/2024-05-29/2024-05-29-sonia.jpg){: width="250" }
+![Sonia Pascua >](/assets/2024-05-29/2024-05-29-sonia.jpg){: width="250"  .fullwidthmobile}
 
 <span class="person">Sonia Pascua</span> (who also had a poster) went into further detail about her dissertation research on the DLITE methods for information retrieval, particularly on how it compared to other metrics.
 
@@ -108,11 +108,11 @@ I (<span class="person">Mat Kelly</span>, <a href="https://x.com/machawk1">@mach
 
 After Sonia's presentation and a slight pause to socialize, awards were presented to the three best posters, as evaluated by a panel of three judges.
 
-![Awards>](/assets/2024-05-29/2024-05-29-awards.jpg){: .fullwidth }
+![Awards>](/assets/2024-05-29/2024-05-29-awards.jpg){: .fullwidth  .fullwidthmobile}
 
 <br style="clear: both;" />
 
-![Steve >](/assets/2024-05-29/2024-05-29-layla.jpg){: width="250" }
+![Steve >](/assets/2024-05-29/2024-05-29-layla.jpg){: width="250"  .fullwidthmobile}
 
 Overall, the First Annual Research Showcase put on by Drexel CCI's Doctoral Student Association was a great chance to hear about students' and faculty's ongoing research as well as to get together in an informal setting to socialize with our CCI peers. I look forward to the DSA putting on this event again in 2025. A special thanks goes to Layla Bouzoubaa for organizing the event.
 

@@ -127,4 +127,11 @@ h2 {font-size: 1.5rem; }
   h1 {font-size: 1.75rem; text-decoration: underline; width: 100%;}
   h2 {font-size: 1.5rem; text-decoration: underline;}
   p {margin: 0 0 30px 0;}
+
+  .fullwidthmobile {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    display: block;
+  }
 }
