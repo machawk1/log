@@ -27,13 +27,13 @@ This post is a summary of this brief event.
 
 ![DSA logo >](/assets/2024-05-29/dsa-logo.png){: width="300" .centered }
 
-The event commenced at 4 pm on the 10th floor of Drexel CCI in Philadelphia. The event was composed about a dozen student posters and a series of 8 5-minute lightning talks at 5 pm following the poster session.
+The event commenced at 4 pm on the 10th floor of Drexel CCI in Philadelphia. The event was composed of about a dozen student posters and a series of 8 5-minute lightning talks at 5 pm following the poster session.
 
 ## Poster Session 
 
 ![Refreshments at the DSA Research Showcase >](/assets/2024-05-29/2024-05-29-food.jpg){: width="200" }
 
-Attendees were able to walk around with refreshments for the first hour of the event and inquire about students' research as presented on the posters. I was able to visit a few of the posters and for some, talk with the students, to get a sense of their research.
+Attendees were able to walk around with refreshments for the first hour of the event and inquire about students' research as presented on the posters. I was able to visit a few of the posters and for some, talk with the students, to get a sense of what they were exploring in their studies.
 
 <span class="person"><a href="https://www.laylab.me/">Layla Bouzoubaa</a></span> (<a href="https://x.com/Bouzoulay">@Bouzoulay</a>) presented, "Stigma: Classified Contextualized Encounters", a work-in-progress project that looks into the notion of stigma concerning drug use on online forums like various sub-Reddits.
 
@@ -49,9 +49,9 @@ Attendees were able to walk around with refreshments for the first hour of the e
 
 ![Aria presenting his poster>](/assets/2024-05-29/2024-05-29-aria.jpg){: width="200" }
 
-<span class="person">Aria Pessianzadeh</span> (<a href="https://x.com/apessianIU">@apessianIU</a>) presented his work investigating a more refined stance model on controversial topics like Affirmative Action as reflected in Reddit comments.
+<span class="person">Aria Pessianzadeh</span> (<a href="https://x.com/apessianIU">@apessianIU</a>) presented his work investigating a more refined stance model for controversial topics like Affirmative Action as reflected in Reddit comments. He anticipated his model to be generally applicable to other controversial topics discussed in online discourse.
 
-![Liu presenting her poster>](/assets/2024-05-29/2024-05-29-liu.jpg){: width="200" }
+![Lu presenting her poster>](/assets/2024-05-29/2024-05-29-lu.jpg){: width="200" }
 
 <span class="person">Lu Wang</span>'s poster described her research in detecting biases in large language models (LLMs), how to measure them, and how to mitigate them.
 
