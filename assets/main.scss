@@ -96,6 +96,12 @@ a[href^="https://twitter.com/"] {
   color: #1da1f2;
 }
 
+a[href^="https://x.com/"] {
+  white-space: nowrap;
+  color: #1da1f2;
+}
+
+
 img.fullwidth {width: 100%; display: block; margin: auto;}
 
 li a {text-decoration: underline;}
