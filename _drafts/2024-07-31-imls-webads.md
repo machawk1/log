@@ -4,7 +4,7 @@ title:  "Preserving Personalized Advertisements for More Accurate Web Archives"
 author: "Mat Kelly"
 creator: "machawk1"
 slug: 'imls-webads-2024'
-background: assets/2024-07-31/2024-07-31-bg.jpg?
+background: assets/2024-07-31/header.png?
 image: /assets/2024-07-31/twitter-card.jpg?202405291713
 imagedesc: "Lorem Ipsum"
 tags: funding imls webads wsdl michael-nelson michele-weigle alex-poole personalization saa ipres
@@ -16,7 +16,7 @@ excerpt: Our IMLS NLG-L grant on assessing and improving web archives' holdings 
 
 Advertisements on the web are annoying to experience yet when preserved, are useful for analyzing our digital pasts. In collaboration with <a href="https://oduwsdl.github.io/">Old Dominion University's Web Science and Digital Libraries (WS-DL) Research Group</a> (<a href="https://x.com/webscidl">@WebSciDL</a>), we at <a href="https://drexel.edu/cci/">Drexel CCI</a> (<a href="https://x.com/DrexelCCI">@DrexelCCI</a>) are pleased to announce that the follow-on to our "<a href="https://www.imls.gov/grants/awarded/lg-252362-ols-22">Savings Ads...</a>" (see <a href="/imls-webads">blog post</a>) project, "<a href="https://www.imls.gov/grants/awarded/lg-256695-ols-24">Preserving Personalized Advertisements for More Accurate Web Archives</a>", has been selected for funding from <a href="https://www.imls.gov/">IMLS</a> starting in August 2024!
 
-The project will run for 2 years and focus on preserving personalized advertisements on the web&mdash;the ones that are tailored to individuals or specific demographics&mdash;with the realization that preserving dynamic, much less personalized web content, is difficult and frequently not performed.
+The project will run for 2 years and focus on preserving personalized advertisements on the web&mdash;the ones that are tailored to individuals or specific demographics&mdash;with the realization that preserving dynamic, much less personalized web content, is difficult and frequently not performed  .
 
 ![Schedule of Completion >](/assets/2024-07-31/scheduleOfCompletion.png){: width="300" .centered .fullwidth   .fullwidthmobile}
 
