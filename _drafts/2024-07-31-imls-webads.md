@@ -6,7 +6,7 @@ creator: "machawk1"
 slug: 'imls-webads-2024'
 background: assets/2024-07-31/header.png?
 image: /assets/2024-07-31/twitter-card.jpg?202405291713
-imagedesc: "Lorem Ipsum"
+imagedesc: "Funded by IMLS: Preserving Personalized Advertisements for More Accurate Web Archives"
 tags: funding imls webads wsdl michael-nelson michele-weigle alex-poole personalization saa ipres
 
 excerpt: Our IMLS NLG-L grant on assessing and improving web archives' holdings of online advertisements has been selected for funding!
