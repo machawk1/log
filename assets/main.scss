@@ -33,6 +33,14 @@ figcaption {
   clear: both;
 }
 
+.logosmol {
+  width: 200px;
+}
+
+.noclip {
+  clip-path: none;
+}
+
 img[alt$=">"] {
     float: right;
   }
@@ -91,16 +99,10 @@ img[alt$="<"] {
   margin: 0.25em 0.25em;
 }
 
-a[href^="https://twitter.com/"] {
+a[href^="https://twitter.com/"], a[href^="https://x.com/"], a[href^="https://digipres.club/"] {
   white-space: nowrap;
   color: #1da1f2;
 }
-
-a[href^="https://x.com/"] {
-  white-space: nowrap;
-  color: #1da1f2;
-}
-
 
 img.fullwidth {width: 100%; display: block; margin: auto;}
 
