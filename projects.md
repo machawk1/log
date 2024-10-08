@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Test Title
-permalink: http://log.lab.matkelly.com/projects
+permalink: /projects
 ---
 
 Test Project Page
