@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Test Title
+layout: page
+title: Projects
 permalink: /projects
 ---
 
-Test Project Page
+TODO: add projects
