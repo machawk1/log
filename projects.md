@@ -4,9 +4,13 @@ title: Projects
 permalink: /projects
 ---
 
+We have many project ongoing with others still in conception phase. Here we proejct some details on each. If you are a student seeking to get involved in research and are interested in a project below, please contact Dr. Kelly.
+
 # Ongoing Projects
 
 Web Ads
+- iPRES
+- SAA
 
 Modeling Semantic Shift Using Version Control Paradigms (Wook)
 
