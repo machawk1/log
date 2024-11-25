@@ -2,9 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects
+background: '/assets/section_backgrounds/projects_code.png'
 ---
 
-We have many project ongoing with others still in conception phase. Here we proejct some details on each. If you are a student seeking to get involved in research and are interested in a project below, please contact Dr. Kelly.
+Our team is actively engaged in a variety of projects, ranging from well-established endeavors to those in the early stages of development. Highlights of select initiatives are presented below. Students interested in contributing to research efforts are encouraged to reach out to Dr. Kelly for more information and potential opportunities.
 
 # Ongoing Projects
 
