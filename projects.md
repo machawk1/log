@@ -12,6 +12,8 @@ Our team is actively engaged in a variety of projects, ranging from well-establi
 Web Ads
 - iPRES
 - SAA
+Timeline A (current grant):
+Timeline B (original grant):
 
 Modeling Semantic Shift Using Version Control Paradigms (Wook)
 
