@@ -5,14 +5,18 @@ permalink: /projects
 background: '/assets/section_backgrounds/projects_code.png'
 ---
 
-Our team is actively engaged in a variety of projects, ranging from well-established endeavors to those in the early stages of development. Highlights of select initiatives are presented below. Students interested in contributing to research efforts are encouraged to reach out to Dr. Kelly for more information and potential opportunities.
+Our team is actively engaged in a variety of projects, ranging from well-established endeavors to those in the early stages of development. Highlights of select initiatives are presented below. Students interested in contributing to research efforts are encouraged to reach out to Dr. Kelly (or see [below](#needsstudents) for more information and potential opportunities.
 
 # Projects Index
 
+## Active
 * Modeling Semantic Shift
 * IPARO Simulation
 * Yet Another Metadata Zoo (YAMZ)
 * [Saving Web Ads](https://test.com)
+
+## Completed
+
 * HBCU Mobility
 * VENOM: Archiving the Dark Web
 
@@ -153,6 +157,7 @@ MITRE's Venom Project is developing a framework for archiving the dark web. One 
 * Christopher Rauch (PhD researcher, Drexel University)
 
 # Projects Seeking Students
+{: #needsstudents}
 
 InterPlanetary Wayback (ipwb)
 RQs:
@@ -167,7 +172,6 @@ Web Archiving Integration Layer
 RQs:
 
 Mink:
-MV3
 Client-side MMA
 Temporal Visualization
 RQs:
