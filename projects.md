@@ -50,7 +50,7 @@ Christopher Rauch, Mat Kelly, Alexander H. Poole, Michele C. Weigle, Michael L. 
 
 ## Modeling Semantic Shift Using Version Control Paradigms
 
-(project description)
+This project introduces a version-controlled framework for managing how meanings evolve over time, addressing the challenge of semantic shift across disciplines. Unlike existing approaches that either detect changes without preserving history or document concepts without integrating detection, this framework treats each semantic state as a versioned entity, linked through provenance and enriched with fuzziness scores to capture ambiguity. By combining drift detection with versioning, it transforms semantic change into a traceable archival record. The result is a practical infrastructure that supports interdisciplinary research and long-term preservation of knowledge while maintaining conceptual clarity.
 
 ### Collaborators
 
