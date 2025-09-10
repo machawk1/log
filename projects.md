@@ -130,6 +130,8 @@ YAMZ (pronounced "yams") is an open, crowdsourced metadata vocabulary and termin
 * Hyung Wook Choi (PhD Researcher, Drexel University)
 * Scott McClellan (PhD Researcher, Drexel University)
 * Naima Sultana (MS Student Researcher, Drexel University)
+* Robert Sammarco (NSF REU)
+* Addy Ireland (NSF REU)
 * Haard Doshi (STAR Scholar Undergraduate Researcher, Drexel University)
 
 ### Associated Publications
