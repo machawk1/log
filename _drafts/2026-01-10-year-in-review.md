@@ -18,7 +18,22 @@ TODO: mention PhD committees I have been on in 2025 and non-Matlab affiliated st
 <!-- endexcerpt -->
 <!--
 TODO: spell check this document
--->For our research group, 2023 was eventful for both fortunate and unfortunate reasons. It is useful to review all that was encapsulated within the past twelve months for our perspective as well as to serve as a record of how we might improve in the future. This is the second in a series of yearly reviews (the first being the [review of 2022](year-in-review-2022)).
+-->
+Around December each year, we get the itch to summarize the previous year's work and this held true despite the goingson of the world. Now that it's nearly mid-January 2026, we have been able to squeeze the cycles just enough to assemble this report (which you're reading) on our research group's progress in 2025.
+
+I have organized this report, once again, into the categories of [students](#students), [funding](#funding), [dissemination](#dissemination), [teaching](#teaching), [service](#service), [upcoming endeavors](#upcoming).
+
+# Students
+
+Both of my PhD student made progress in 2025 on their doctoral careers. In November, Wook defended her dissertation proposal (more info on this here)
+
+Chris also made headway on his research topic and presented his work in Paris, XXX, YYY, and Z. These are the papers he published, X indication an affiliation with our research group.
+* 
+* 
+* 
+
+
+For our research group, 2023 was eventful for both fortunate and unfortunate reasons. It is useful to review all that was encapsulated within the past twelve months for our perspective as well as to serve as a record of how we might improve in the future. This is the second in a series of yearly reviews (the first being the [review of 2022](year-in-review-2022)).
 
 In this summary of 2023, I cover aspects relating to [students](#students), [funding](#funding), [dissemination](#dissemination), [teaching](#teaching), [service](#service), [upcoming endeavors](#upcoming), and [a personal aside](#personal).
 
